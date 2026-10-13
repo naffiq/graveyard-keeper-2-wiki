@@ -1,0 +1,54 @@
+{{Item infobox
+| type = Wood
+| stack = 50
+| science = 1
+| RP = 10
+| crafting = Sawhorse
+| crafted = {{Item|Log|1}}
+| technology = The Concept of Wood
+}}
+'''Board''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Sawhorse
+| item1 = Log
+| mastery = Orange
+| item1Q = 1
+| result = Board
+| resultQ = 4
+| masteryQ = 1
+| tree = Building
+| ticks = 5
+| energy = 2
+| red = 1
+| tech = The Concept of Wood
+}}
+
+* {{Item|Carpenter}} adds +2 Board to the result (''only in this blueprint''):
+{{Recipe
+| blueprint = Circular Saw
+| item1 = Log
+| mastery = Orange
+| item1Q = 1
+| result = Board
+| resultQ = 4
+| masteryQ = 3
+| tree = Building
+| ticks = 6
+| energy = 3
+| red = 2
+| tech = The Concept of Wood
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 1
+| RP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

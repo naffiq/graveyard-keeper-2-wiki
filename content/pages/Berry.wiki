@@ -1,0 +1,29 @@
+{{Item infobox
+| type = Food
+| stack = 50
+| science = 1
+| faith = 1
+| GP = 20
+| GR = 1
+| energy = 3
+}}
+'''Berry''' is a crafting material. It can be consumed to restore {{Icon|Energy|3|size=20}}.
+
+== Obtaining ==
+* Gathered from Berry Bushes.
+
+== Study and alchemy ==
+{{Study
+| Science = 1
+| Faith = 1
+| GP = 20
+| GR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Food navbox}}
+
+[[pt-br:Frutinha]]

@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Metallurgy
+| RP = 35
+| pre = [[Bronze Polishing]]
+}}
+'''Iron Forge''' is a [[Technologies|technology]] in the [[Metallurgy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Iron Ingot}}
+|{{Item|Supply: Iron}}
+|{{Blueprint|Furnace II}}
+|}
+
+== Next technologies ==
+*[[Iron Smithing]]
+*[[Bellows (technology)|Bellows]]
+
+== Navigation ==
+{{Metallurgy navbox}}

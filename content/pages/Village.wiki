@@ -1,0 +1,18 @@
+{{Location infobox
+| connects = [[Crossroads]]<br/>[[Forest Post]]
+| area = Village
+}}
+
+'''Village''' is an area to the south of the [[Crossroads]]. It is home to refugees who managed to escape the [[Town]].
+
+All villagers in the Village share the same {{Icon|Reputation}} reputation.
+
+== Locations ==
+
+* [[Twins' Land]]: [[Heffry and Jeffry]], [[Jack]] (moves to the [[Town]] after the [[quest]] "[[Jack in a Boat]]")
+* [[Hangman's House]]
+* [[Herm's Store]]: [[Herm]]
+* [[Village Tavern]]: [[Januarius]]
+
+== Navigation ==
+{{Location navbox}}

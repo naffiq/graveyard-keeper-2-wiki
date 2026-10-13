@@ -1,0 +1,18 @@
+{{Location infobox
+| area = Town
+| connects = [[Crossroads]]
+}}
+'''Town''' is an area located to the right of the [[Crossroads]].
+
+== Areas ==
+
+* [[Square]]
+* [[Port Area]]
+* [[Stilt Houses]]
+* [[Sluice Area]]
+* [[Palace]]
+* [[Royal Foundry]]
+
+== Repairs ==
+== Navigation ==
+{{Location navbox}}

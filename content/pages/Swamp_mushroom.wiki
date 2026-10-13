@@ -1,0 +1,28 @@
+{{Item infobox
+| type = Alchemy
+| stack = 20
+| faith = 2
+| science = 2
+| GP = 30
+| GR = 2
+}}
+
+'''Swamp mushroom''' is a crafting material.
+
+== Obtaining ==
+
+* Gathered in the [[swamp]].
+
+== Study and alchemy ==
+{{Study
+| Faith = 2
+| Science = 2
+| GP = 30
+| GR = 2
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

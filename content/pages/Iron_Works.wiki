@@ -1,0 +1,22 @@
+{{Tech infobox
+| tree = Metallurgy
+| RP = 75
+| pre = [[Iron Smithing]]
+}}
+
+'''Iron Works''' is a [[technology]] in the [[Metallurgy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Iron Detail}}
+|{{Item|Iron Kit I}}
+|}
+
+== Next technologies ==
+*[[Reinforced Beam]]
+*[[Iron Equipment]]
+*[[Iron Instruments I]]
+*[[Iron Instruments II]]
+
+== Navigation ==
+{{Metallurgy navbox}}

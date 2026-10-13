@@ -1,0 +1,59 @@
+{{Item infobox
+| type = Glass
+| stack = 30
+| crafting = Furnace I
+| crafted = {{Item|Sand|3}}<br/>{{Item|Fuel|10}}
+| technology = Glass (technology)
+| science = 3
+| RP = 20
+| GP = 10
+}}
+
+'''Glass''' is a crafting material.
+
+== Obtaining ==
+* {{Item|Glassworker}} adds +1 to the result (''only this recipe''):
+
+{{Recipe
+| blueprint = Furnace I
+| result = Glass
+| resultQ = 3
+| item1 = Sand
+| item1Q = 3
+| item2 = Fuel
+| item2Q = 10
+| mastery = Red
+| masteryQ = 2
+| tech = Glass (technology)
+| tree = Metallurgy
+| ticks = 6
+| red = 1
+}}{{Recipe
+| blueprint = Smithy I
+| item1 = Sand
+| item1Q = 3
+| item2 = Coal
+| item2Q = 1
+| mastery = Red
+| masteryQ = 2
+| tech = Smithy I (technology)
+| tree = Metallurgy
+| ticks = 8
+| red = 1
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 20
+| GP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+
+[[pt-br:Vidro]]

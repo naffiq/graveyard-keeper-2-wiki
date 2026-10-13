@@ -1,0 +1,2 @@
+Part II takes place immediately after part 1 without leaving the battle field. Any defenses used and still standing after Part I are reset and usable.{{Battles|Battle_Name=Closing the Eastern Floodgate: Part I|squads=3|defense_power=80|rewards=10x[[Zombie Goo]], 16x[[Town Gratitude]]}}
+[[Category:Battles]]

@@ -1,0 +1,19 @@
+{{Tech infobox
+| tree = Anatomy and Alchemy
+}}
+'''Alchemy, Basic''' is a [[Technologies|technology]] in the [[Anatomy and Alchemy]] Tech Tree.
+
+Is unlocked during the [[quest]] "[[Sweet Dreams]]".
+
+== Unlocks ==
+{|
+|{{Item|Dream Dust}}
+|{{Blueprint|Flask shelf}}
+|{{Blueprint|Laboratory I}}
+|}
+
+== Next technologies ==
+* [[Alchemy, Distillation]]
+
+== Navigation ==
+{{Anatomy and Alchemy navbox}}

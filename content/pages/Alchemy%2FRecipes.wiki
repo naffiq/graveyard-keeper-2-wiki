@@ -1,0 +1,6 @@
+{{#dpl:
+| uses     = Template:Recipe/Alchemy
+| include  = {Recipe/Alchemy}::red:green:blue
+| table    = class="wikitable sortable" style="text-align:center",-, Item,{{Rune|Red}}, {{Rune|Green}}, {{Rune|Blue}}
+| tablerow = ²{Item¦%PAGE%}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²
+}}

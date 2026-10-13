@@ -1,6 +1,0 @@
-Homobonus will appear after repairing one of the small houses in the suthern district of the city.
-
-he will ask for 10 glass flasks to rebuild his bottled water buissness, after providing this he will offer to regularly buy Faith of you. (10 Faith -> 5 silber)
-[[Category:Merchant]]
-[[Category:Quest-giver]]
-[[Category:Npc]]

@@ -1,0 +1,25 @@
+{{Blueprint infobox
+| technology = Smithy: Hammer (technology)
+| crafted = {{Item|Wooden beam|2}}<br/>{{Item|Iron Detail|2}}<br/>{{Item|Iron Ingot|1}}
+| location = Factory
+}}
+'''Smithy: Hammer''' is an extension that can be build on the [[Smithy I]] and [[Smithy II]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Factory
+| item1 = Wooden beam
+| item1Q = 2
+| item2 = Iron Detail
+| item2Q = 2
+| item3 = Iron Ingot
+| item3Q = 1
+| tree = Metallurgy
+| tech = Smithy: Hammer (technology)
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

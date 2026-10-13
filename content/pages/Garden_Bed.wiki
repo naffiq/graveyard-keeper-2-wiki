@@ -1,0 +1,18 @@
+{{Blueprint infobox
+| horizontal = 3
+| vertical = 3
+| location = Garden
+}}
+
+'''Garden Bed''' is a blueprint that can be built in the [[Garden]]. It can be used to plant [[seeds]].
+
+== Building ==
+{{Recipe/Blueprint
+| location = Garden
+| result = Garden Bed
+| tree = Farming
+| tech = Gardening
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

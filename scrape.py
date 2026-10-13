@@ -25,11 +25,11 @@ from concurrent.futures import ThreadPoolExecutor
 
 import recipes as recipe_parser
 
-BASE = "https://graveyardkeeper2.fandom.com"
+BASE = "https://graveyard-keeper-2.fandom.com"
 SITE_NAME = "Graveyard Keeper 2 Wiki"
 SHORT_NAME = "GK2 Wiki"
 SOURCE_NAME = "Graveyard Keeper 2 Fandom wiki"
-MAIN_PAGE = "Graveyardkeeper2 Wiki"
+MAIN_PAGE = "Graveyard Keeper 2 Wiki"
 THEME_COLOR = "#2b1b2e"
 API = BASE + "/api.php"
 UA = "Mozilla/5.0 (offline-wiki-archiver; personal use)"

@@ -1,0 +1,50 @@
+{{Item infobox
+| type = Building
+| stack = 30
+| crafting = Iron Anvil
+| crafted = {{Item|Iron Ingot|1}}
+| science = 10
+| RP = 25
+| BP = 10
+| technology = Iron Works
+}}
+
+'''Iron Kit I''' is a building material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Iron Anvil
+| extension = Hardening Bucket
+| item1 = Iron Ingot
+| mastery = Red
+| masteryQ = 7
+| tech = Iron Works
+| tree = Metallurgy
+| ticks = 8
+| energy = 3
+| red = 4
+}}{{Recipe
+| blueprint = Smithy I
+| extension = Smithy: Hammer
+| resultQ = 4
+| item1 = Iron Ingot
+| mastery = Red
+| masteryQ = 3
+| tech = Smithy: Hammer (technology)
+| tree = Metallurgy
+| ticks = 8
+| red = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| RP = 25
+| BP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

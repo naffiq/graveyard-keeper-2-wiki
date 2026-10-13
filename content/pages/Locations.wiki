@@ -1,0 +1,3 @@
+The world of ''[[Graveyard Keeper 2]]'' is divided into several '''locations'''. Each location contains different [[characters]] and objects, and some also feature a Blueprint Desk.
+
+{{Map:Locations}}

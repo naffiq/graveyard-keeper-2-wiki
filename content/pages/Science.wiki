@@ -1,0 +1,23 @@
+{{Item infobox
+| type = Currency
+| stack = 
+| others = Study Table
+}}
+'''Science''' is a resource that can be obtained in the [[Study Table]]. It does not take up inventory space and is used to [[study]] items.
+
+== Obtaining ==
+{| class="fandom-table"
+!Item
+!+[[File:Science (icon).png|15px|link=]] 
+|-
+|{{Item|Clean Paper}}
+|1
+|-
+|{{Item|Science Kit I}}
+|30
+|}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Ciência]]

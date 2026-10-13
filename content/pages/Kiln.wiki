@@ -1,0 +1,27 @@
+{{Blueprint infobox
+| location = Yard
+| vertical = 3
+| horizontal = 3
+| technology = Brick Making
+| crafted = {{Item|Piece of stone|4}}<br/>{{Item|Clay|5}}<br/>{{Item|Water|5}}
+}}
+'''Kiln''' is a [[workstation]] that can be build in the [[Yard]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Yard
+| item1 = Piece of stone
+| item1Q = 4
+| item2 = Clay
+| item2Q = 5
+| item3 = Water
+| item3Q = 5
+| tree = Building
+| tech = Brick Making
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

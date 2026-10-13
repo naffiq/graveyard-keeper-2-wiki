@@ -1,0 +1,41 @@
+{{Item infobox
+| type = Steel
+| stack = 30
+| crafting = Steel Anvil
+| crafted = {{Item|Steel Ingot|1}}
+| technology = Steel Smithing
+| science = 7
+| RP = 40
+| BP = 25
+}}
+
+'''Steel Detail''' is a crafting material.
+
+== Obtaining ==
+
+* {{Item|Engineer}} gives +2 to the result:
+{{Recipe
+| blueprint = Steel Anvil
+| resultQ = 4
+| item1 = Steel Ingot
+| mastery = Red
+| masteryQ = 10
+| tech = Steel Smithing
+| tree = Metallurgy
+| ticks = 8
+| energy = 3
+| red = 6
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 7
+| RP = 40
+| BP = 25
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

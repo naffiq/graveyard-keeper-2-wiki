@@ -1,0 +1,40 @@
+{{Item infobox
+| type = Zombie
+| stack = 10
+| science = 20
+| GP = 30
+| BP = 70
+| crafted = {{Item|Steel Ingot}}<br/>{{Item|Blue Crystal}}<br/>{{Item|Faith|10}}
+| crafting = Jewelry Table
+| technology = Reanimation III
+}}
+
+'''Steel Zombie Collar''' is a zombie collar used to [[Resurrection Lab|resurrect]] [[zombies]] with up to 99 {{Skull|Red}}. Is the best collar.
+
+== Obtaining ==
+* Sold by [[Jeweler]].
+{{Recipe
+| blueprint = Jewelry Table
+| item1 = Steel Ingot
+| mastery = Red
+| item2 = Blue Crystal
+| item3 = Faith
+| item3Q = 10
+| masteryQ = 12
+| tech = Reanimation III
+| tree = Anatomy and Alchemy
+| ticks = 16
+| energy = 3
+| red = 2
+| blue = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 20
+| GP = 30
+| BP = 70
+}}
+
+== Navigation ==
+{{Item navbox}}

@@ -1,0 +1,29 @@
+{{Blueprint infobox
+| location = General
+| vertical = 2
+| horizontal = 3
+| technology = Tool Rack (technology)
+| crafted = {{Item|Wooden Plank|4}}<br/>{{Item|Bronze Nails|4}}
+}}
+'''Simple Chest''' is a blueprint used to store items. It can be crafted at most locations with a Blueprint Desk. It has 20 storage slots, with each slot holding one stack of an item.
+
+== Obtaining ==
+
+* Can be build in:
+** {{Blueprint|Yard|text=no}} [[Yard]]
+** {{Blueprint|Home|text=no}} [[Home]]
+** {{Blueprint|Alchemy Lab|text=no}} [[Alchemy Lab]]
+** {{Blueprint|Writing Room|text=no}} [[Writing Room]]
+{{Recipe/Blueprint
+| location = General
+| result = Simple Chest
+| item1 = Wooden Plank
+| item1Q = 4
+| item2 = Bronze Nails
+| item2Q = 4
+| tree = Building
+| tech = Tool Rack (technology)
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Building
+| RP = 20
+| pre = [[Tool Rack (technology)|Tool Rack]]
+| GP = 20
+}}
+'''Oiled wood''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Oiled Plank}}
+|{{Item|Wooden Kit I}}
+|{{Item|Wooden Trinkets}}
+|}
+
+== Next technologies ==
+* ¿?
+
+== Navigation ==
+{{Building navbox}}

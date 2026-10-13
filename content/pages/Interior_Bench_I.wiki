@@ -1,0 +1,22 @@
+{{Blueprint infobox
+| location = Church
+| technology = Church Cleaning
+| crafted = {{Item|Wooden Plank|2}}<br/>{{Item|Bronze Nails|6}}
+}}
+'''Interior Bench I''' is a blueprint that can be build in the [[Church]].
+
+Each bench placed gives +3 {{Icon|Church Quality}}.  A maximum of 6 benches can be placed.
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Church
+| item1 = Wooden Plank
+| item1Q = 2
+| item2 = Bronze Nails
+| item2Q = 6
+| tree = Theology
+| tech = Church Cleaning
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

@@ -1,0 +1,11 @@
+{{Item infobox
+| type = Others
+| stack = 50
+}}
+
+'''Defender's Emblem''' is the rewards of certain battles. The [[Keeper]] can deliver it to the [[Barracks]] to increase the number of squads by 1.
+
+A total of 4 emblems can be obtained. The first one is obtained as a reward for the battle in the [[quest]] "[[First... Sludge?]]".
+
+== Navigation ==
+{{Item navbox}}

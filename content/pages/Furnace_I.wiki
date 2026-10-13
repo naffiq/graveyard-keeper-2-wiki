@@ -1,0 +1,26 @@
+{{Blueprint infobox
+| location = Yard
+| vertical = 5
+| horizontal = 5
+| technology = Bronze Melting
+| crafted = {{Item|Piece of stone|6}}<br/>{{Item|Brick|12}}
+}}
+
+'''Furnace I''' is a [[workstation]] that can be build in the [[Yard]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Yard
+| item1 = Piece of stone
+| item1Q = 6
+| item2 = Brick
+| item2Q = 12
+| tree = Metallurgy
+| tech = Bronze Melting
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

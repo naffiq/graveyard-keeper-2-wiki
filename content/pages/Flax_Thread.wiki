@@ -1,0 +1,40 @@
+{{Item infobox
+| type = Farming
+| stack = 99
+| science = 3
+| crafting = [[Spinning Wheel]]
+| RP = 15
+| GP = 30
+}}
+
+'''Flax Thread''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Spinning Wheel
+| item1 = Flax
+| mastery = Green
+| item1Q = 1
+| masteryQ = 3
+| resultQ = 1
+| tree = Farming
+| tech = Farming, Flax Thread
+| result = Flax Thread
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 15
+| GP = 30
+}}
+
+== Uses ==
+{{Uses
+| Fabric
+| Reinforced Bow
+| Battle Bow
+}}
+
+== Navigation ==
+{{Item navbox}}

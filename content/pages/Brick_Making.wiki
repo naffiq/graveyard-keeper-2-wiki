@@ -1,0 +1,19 @@
+{{Tech infobox
+| tree = Building
+| RP = 15
+| pre = [[Pottery I]]
+| GP = 5
+}}
+'''Brick Making''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Brick}}
+|{{Blueprint|Kiln}}
+|}
+
+== Next technologies ==
+* ¿?
+
+== Navigation ==
+{{Building navbox}}

@@ -1,0 +1,34 @@
+{{Location infobox
+| connects = [[Old Mine]]<br/>[[Supply Storage]]<br/>[[Yard]]
+| area = Inquisition Base
+}}
+'''Factory''' is a [[Locations|location]] under the [[Inquisition Base]].
+
+There are four ways to reach the Factory: from the [[Writing Basement]], from the [[Old Mine]], from beneath the [[Crossroads]], and from the [[Vineyard Basement]]. Each route requires clearing at least one Blockage, which requires {{item|Iron Detail|4}} and {{Item|Reinforced Beam|1}}.
+
+Here, the [[Keeper]] can use [[zombies]] to automate the production of certain items. Some items can only be produced here. The Factory has storage areas for {{Item|Log}}, {{Item|Stone}}, {{Item|Sand}}, {{Item|Clay}}, {{Item|Coal}}, {{Item|Iron Ore}}, and {{Item|Marble}}, which are transported from their respective locations by zombies assigned to the [[Porter Station]].
+
+== Repairs ==
+{| class="fandom-table"
+!Blueprint
+!Materials
+!Mastery
+|-
+|{{Repair|Broken Zombie Carousel}}
+|{{Item|Bronze Gear|6}}<br/>{{Item|Bronze Detail|4}}<br/>{{Item|Wooden Plank|4}}
+|{{Mastery|Orange|5}}
+|-
+|{{Repair|Broken Conveyor Mechanism}}
+|{{Item|Bronze Gear|4}}<br />{{Item|Advanced Detail|4}}<br />{{Item|Polished Bronze|2}}
+|{{Mastery|Orange|11}}
+|-
+|{{Repair|Broken Conveyor Mechanism}}
+|{{Item|Bronze Gear|4}}<br />{{Item|Polished Bronze|2}}
+|{{Mastery|Orange|8}}
+|}
+
+== Blueprint Desk ==
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}

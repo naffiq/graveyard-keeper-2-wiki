@@ -1,0 +1,34 @@
+{{Item infobox
+| type = Alchemy
+| stack = 30
+| RP = 30
+| GP = 40
+| GR = 2
+| RR = 1
+| BP = 10
+| science = 3
+| faith = 5
+}}
+
+'''Beeswax''' is a crafting material.
+
+== Obtaining ==
+
+* Can be gathered from [[Wild Bee Hives]] and [[Beehive|beehives]].
+
+== Study ==
+{{Study
+| Faith = 5
+| Science = 3
+| RP = 30
+| GP = 40
+| GR = 2
+| RR = 1
+| BP = 10
+}}
+
+== Uses ==
+{{Recipes}}
+
+== Navigation ==
+{{Item navbox}}

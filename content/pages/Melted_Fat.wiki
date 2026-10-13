@@ -1,0 +1,61 @@
+{{Item infobox
+| type = Alchemy
+| stack = 99
+| science = 2
+| crafting = Distillation Cube
+| faith = 2
+| GP = 15
+| BP = 10
+| RR = 3
+| crafted = {{Item|Fat|1}}<br/>{{Item|Clay Plate|2}}<br/>{{Item|Fuel|20}}
+| technology = Alchemy, Distillation
+}}
+
+'''Melted Fat''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Distillation Cube
+| item1 = Fat
+| mastery = Violet
+| item1Q = 1
+| masteryQ = 1
+| resultQ = 4
+| tree = Anatomy and Alchemy
+| tech = Alchemy, Distillation
+| result = Melted Fat
+| item2 = Clay Plate
+| item2Q = 2
+| item3 = Fuel
+| item3Q = 20
+}}
+{{Recipe
+| blueprint = Distillation Cube
+| item1 = Seed oil
+| mastery = Violet
+| item1Q = 3
+| masteryQ = 1
+| resultQ = 3
+| tree = Anatomy and Alchemy
+| tech = Alchemy, Distillation
+| result = Melted Fat
+| item2 = Clay Plate
+| item2Q = 2
+| item3 = Fuel
+| item3Q = 20
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 2
+| Faith = 2
+| GP = 15
+| BP = 10
+| RR = 3
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

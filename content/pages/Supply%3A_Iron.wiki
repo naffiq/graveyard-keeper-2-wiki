@@ -1,0 +1,46 @@
+{{Item infobox
+| type = Supply
+| stack = 1
+| crafting = Woodworking Workbench I
+| crafted = {{Item|Iron Ingot|6}}<br/>{{Item|Board|4}}<br/>{{Item|Bronze Nails|8}}
+| technology = Iron Forge
+}}
+
+'''Supply: Iron''' is a supply item.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Woodworking Workbench I
+| item1 = Iron Ingot
+| item1Q = 6
+| item2 = Board
+| item2Q = 4
+| item3 = Bronze Nails
+| item3Q = 8
+| mastery = Orange
+| masteryQ = 4
+| tech = Iron Forge
+| tree = Metallurgy
+| ticks = 8
+| energy = 1
+| red = 2
+}}{{Recipe
+| blueprint = Assembly bench I
+| item1 = Iron Ingot
+| item1Q = 8
+| mastery = Orange
+| masteryQ = 2
+| ticks = 10
+| red = 1
+}}
+
+== Study and alchemy ==
+
+* This item cannot be studied.
+
+== Uses ==
+
+* [[Town Warehouse]]: 5 supplies for {{Icon|Happiness|10}}
+
+== Navigation ==
+{{Item navbox}}

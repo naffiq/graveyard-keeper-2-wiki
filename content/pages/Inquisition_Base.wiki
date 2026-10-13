@@ -1,0 +1,33 @@
+{{Location infobox
+| area = Inquisition Base
+| connects = [[Crossroads]]<br/>[[Forest]]
+}}
+'''Inquisition Base''' is an area located to the left of the [[Crossroads]]. It is where the [[Keeper]] performs most of his activities.
+
+It has a [[milestone]] that is active by default.
+
+== Areas ==
+
+* [[Alchemy Lab]]
+* [[Garden]]
+* [[Graveyard]]
+* [[Morgue]]
+* [[Yard]]
+
+== Repairs ==
+{| class="fandom-table"
+!Blueprint
+!Material
+!Mastery
+|-
+|{{Blueprint|Locked door}}
+|{{Item|Inquisitor’s medallion}}<br/>{{Item|Secret combination}}
+|{{Mastery|Orange|1}}
+|-
+|style="text-align:center;"|{{Repair|Vineyard Bridge}}
+|{{Item|Wooden Plank|4}}<br/>{{Item|Polished Bronze|1}}<br/>{{Item|Piece of stone|4}}
+|{{Mastery|Orange|2}}
+|}
+
+== Navigation ==
+{{Location navbox}}

@@ -1,0 +1,27 @@
+{{Item infobox
+| type = Quest
+| stack = 1
+| science = 3
+| RP = 30
+| BP = 10
+}}
+
+'''Inquisitor’s medallion''' is a quest item.
+
+== Obtaining ==
+
+* Found in the [[Inquisition Dungeon]].
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 30
+| BP = 10
+}}
+
+== Uses ==
+
+* Open the '''locked door''' in the [[Inquisition Base]]
+
+== Navigation ==
+{{Item navbox}}

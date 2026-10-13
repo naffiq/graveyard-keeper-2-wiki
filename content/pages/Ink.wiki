@@ -1,0 +1,42 @@
+{{Item infobox
+| type = Writing
+| stack = 30
+| crafting = Writing Desk
+| crafted = {{Item|Ash}}<br/>{{Item|Water}}<br/>{{Item|Melted Fat}}
+| technology = Writing Supplies
+| science = 5
+| BP = 30
+}}
+
+'''Ink''' is a crafting material.
+
+== Obtaining ==
+
+* Sold by [[Alchemist]].
+{{Recipe
+| blueprint = Writing Desk
+| item1 = Ash
+| mastery = Blue
+| item1Q = 1
+| item2 = Water
+| item2Q = 1
+| item3 = Melted Fat
+| item3Q = 1
+| result = Ink
+| resultQ = 4
+| tech = Writing Supplies
+| tree = Theology
+| masteryQ = 5
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| BP = 30
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

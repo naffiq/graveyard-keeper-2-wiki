@@ -1,0 +1,31 @@
+{{Item infobox
+| type = Zombie
+| stack = 20
+| science = 20
+| RP = 30
+| GP = 50
+| BP = 25
+}}
+'''Reanimation Liquid''' is an item used to create new [[zombies]].
+
+== Obtaining ==
+* Buy from [[Gunter]] and [[Alchemist]].
+{{Recipe/Alchemy
+| red = 2
+| green = 1
+| blue = 4
+}}
+
+=== Recommended Recipes ===
+* Tin + Water + Alcohol
+
+== Study and alchemy ==
+{{Study
+| Science = 20
+| RP = 30
+| GP = 50
+| BP = 25
+}}
+
+== Navigation ==
+{{Item navbox}}

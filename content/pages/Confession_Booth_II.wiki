@@ -1,0 +1,23 @@
+{{Blueprint infobox
+| location = Church
+| technology = Church Furniture II
+| crafted = {{Item|Oiled Plank|6}}<br/>{{Item|Bronze Detail|9}}
+| quality = 7
+}}
+'''Confession Booth II''' is a blueprint that can be build in the [[Church]].
+
+Each booth placed gives +7 {{Icon|Church Quality}}.  A maximum of 2 booths can be placed. It shares the same location as [[Confession Booth I]] and [[Confession Booth III]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Church
+| item1 = Oiled Plank
+| item1Q = 6
+| item2 = Bronze Detail
+| item2Q = 8
+| tree = Theology
+| tech = Church Furniture II
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

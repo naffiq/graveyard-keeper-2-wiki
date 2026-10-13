@@ -1,0 +1,24 @@
+{{Location infobox
+| area = Forest
+| connects = [[Riverside]]<br/>[[Inquisition Base]]<br/>[[Forest]]
+}}
+
+'''Quarry''' is a location at the west of the [[Forest]] and south of the [[Inquisition Base]]. Is locked until complete the [[quest]] "[[Into the Forest]]".
+
+== Repairs ==
+{| class="fandom-table"
+!Blueprint
+!Materials
+!Mastery
+|-
+|{{Repair|Broken Ladder}}
+|{{Item|Wooden Plank|4}}<br/>{{Item|Bronze Detail|1}}<br/>{{Item|Bronze Nails|4}}
+|{{Mastery|Orange|2}}
+|-
+|}
+
+== Blueprint Desk ==
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}

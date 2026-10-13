@@ -1,0 +1,37 @@
+{{Item infobox
+| type = Clay
+| stack = 50
+| science = 5
+| RP = 10
+| crafting = Kiln
+| technology = Brick Making
+| crafted = {{Item|Clay|4}}<br/>{{Item|Fuel|10}}
+}}
+'''Brick''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Kiln
+| item1 = Clay
+| mastery = Orange
+| item1Q = 4
+| masteryQ = 3
+| resultQ = 6
+| tree = Building
+| tech = Brick Making
+| result = Brick
+| item2 = Fuel
+| item2Q = 10
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 2
+| RP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

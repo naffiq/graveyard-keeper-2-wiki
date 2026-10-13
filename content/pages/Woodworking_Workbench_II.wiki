@@ -1,0 +1,26 @@
+{{Blueprint infobox
+| location = Yard
+| vertical = 4
+| horizontal = 6
+| technology = Woodworking II
+| crafted = {{Item|Oiled Plank|4}}<br/>{{Item|Polished Bronze|2}}
+}}
+
+'''Woodworking Workbench II''' is a [[workstation]] that can be build in the [[Yard]]. It is an upgraded version of the [[Woodworking Workbench I]] and inherits all of its recipes while adding new ones.
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Yard
+| item1 = Oiled Plank
+| item1Q = 4
+| item2 = Polished Bronze
+| item2Q = 2
+| tree = Building
+| tech = Woodworking II
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

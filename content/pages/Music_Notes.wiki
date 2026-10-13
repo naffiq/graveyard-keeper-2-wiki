@@ -1,0 +1,36 @@
+{{Item infobox
+| type = Church
+| stack = 30
+| science = 20
+| BP = 50
+| crafted = {{Item|Clean Paper|2}}<br/>{{Item|Ink|1}}
+| technology = Church Music I
+| crafting = Writing Desk
+}}
+
+'''Music Notes''' are crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Writing Desk
+| item1 = Clean Paper
+| mastery = Blue
+| item1Q = 2
+| item2 = Ink
+| item2Q = 1
+| masteryQ = 5
+| tech = Church Music I
+| tree = Theology
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 20
+| BP = 50
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

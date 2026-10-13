@@ -1,0 +1,33 @@
+{{Blueprint infobox
+| location = Writing Room
+| horizontal = 4
+| vertical = 4
+| technology = Church Lighting I
+| crafted = {{Item|Wooden Plank|4}}<br/>{{Item|Bronze Detail|4}}<br/>{{Item|Polished Bronze|1}}
+}}
+'''Formulation Bench''' is a {{Mastery|Violet}} [[Workstation|workstation]] that can be built in the [[Writing Room]] and in the [[Alchemy Lab]].
+
+Here, the Keeper can craft candles for the [[church]], fertilizers for the [[garden]], injections for upgrade [[corpses]] and other items.
+
+== Obtaining ==
+*Can also be build in:
+**{{Blueprint|Alchemy Lab|text=no}} [[Alchemy Lab]]
+
+{{Recipe/Blueprint
+| location = Writing Room
+| item1 = Wooden Plank
+| item1Q = 4
+| item2 = Bronze Detail
+| item2Q = 4
+| item3 = Polished Bronze
+| item3Q = 1
+| tree = Theology
+| tech = Church Lighting I
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}
+[[Category:Created in: Alchemy Lab]]

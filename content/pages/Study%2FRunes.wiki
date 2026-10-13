@@ -1,0 +1,6 @@
+{{#dpl:
+| category = Item has runes
+| include  = {Item infobox}::science:faith:RR:GR:BR
+| table    = class="wikitable sortable" style="text-align:center",-, Item, {{Icon|Science}}, {{Icon|Faith}}, {{Rune|Red}}, {{Rune|Green}}, {{Rune|Blue}}
+| tablerow = ²{Item¦%PAGE%}²,%%,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²
+}}

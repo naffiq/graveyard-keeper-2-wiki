@@ -1,0 +1,28 @@
+{{Blueprint infobox
+| vertical = 3
+| horizontal = 4
+| location = Writing Room
+| technology = Writing Basic
+| crafted = {{Item|Wooden Plank|4}}<br/>{{Item|Bronze Nails|6}}<br/>{{Item|Polished Bronze|1}}
+}}
+'''Writing Desk''' is a [[workstation]] that can be build in the [[Writing Room]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Writing Room
+| result = Writing Desk
+| item1 = Wooden Plank
+| item1Q = 4
+| item2 = Bronze Nails
+| item2Q = 6
+| item3 = Polished Bronze
+| item3Q = 1
+| tree = Theology
+| tech = Writing Basic
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

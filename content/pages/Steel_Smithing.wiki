@@ -1,0 +1,24 @@
+{{Tech infobox
+| tree = Metallurgy
+| RP = 120
+| BP = 15
+| pre = [[Iron Products]]<br/>{{Icon|Reputation|70}} with [[Jack]]
+}}
+'''Steel Smithing''' is a [[technology]] in the [[Metallurgy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Steel Detail}}
+|{{Item|Steel Screws}}
+|{{Blueprint|Steel Anvil}}
+|{{Blueprint|Lantern II}}
+|}
+
+== Next technologies ==
+*[[Reinforced Barricades]]
+*[[Steel Instruments I]]
+*[[Steel Instruments II]]
+*[[Steel Casting]]
+
+== Navigation ==
+{{Metallurgy navbox}}

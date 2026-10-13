@@ -1,0 +1,32 @@
+{{Item infobox
+| type = Glass
+| stack = 99
+| science = 1
+| faith = 1
+| RP = 5
+| GP = 5
+| RR = 1
+}}
+
+'''Sand''' is a crafting material.
+
+== Obtaining ==
+
+* Dug up sand pile (requires {{Mastery|Green}}and a shovel)
+* {{Blueprint|Sand Digger Stand|text=no}} Sand Digger Stand
+
+== Study and alchemy ==
+{{Study
+| Faith = 1
+| Science = 1
+| RP = 5
+| GP = 5
+| RR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+[[pt-br:Areia]]
+== Navigation ==
+{{Item navbox}}

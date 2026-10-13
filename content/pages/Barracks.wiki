@@ -1,0 +1,19 @@
+{{Location infobox
+| connects = [[Crossroads]]
+| area = Crossroads
+}}
+'''Barracks''' is a location in the [[Crossroads]]. It is unlocked after completing the [[quest]] "[[Fighting Spirit Required]]".
+
+Here, the [[Keeper]] can prepare the defenses.
+
+== Swords ==
+Building barricades and hiring mercenaries gives {{Icon|Barracks}}. Mercenaries needs {{Icon|Silver Coin|5}} and adds {{Icon|Barracks|8}}.
+
+== Squads ==
+An {{Item|Defender's Emblem}} can be delivered to the Battle Ram, located on the right side of the Barracks, to increase the number of squads. Each squad can contain up to 4 [[zombies]], which can be equipped with weapons and armor to increase {{Icon|Barracks}}.
+
+== Blueprint Desk ==
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}

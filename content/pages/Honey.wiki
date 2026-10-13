@@ -1,0 +1,30 @@
+{{Item infobox
+| type = Apiary product
+| stack = 50
+| Faith = 1
+| Science = 1
+| RP = 
+| GP = 
+| GR = 2
+| BR = 1
+}}
+'''Honey''' is used to make food and used in Alchemy 
+
+== Obtaining ==
+* '''Honey''' can be gathered from [[Wild Bee Hives|Wild Bee Hives]] and [[Bee hive|Bee Hives]]
+
+== Study ==
+{{Study
+| Faith = 1
+| Science = 1
+| RP = 
+| GP = 
+| GR = 2
+| BR = 1
+}}
+
+== Uses ==
+{{Recipes}}
+
+== Navigation ==
+{{Item navbox}}

@@ -1,0 +1,28 @@
+{{Blueprint infobox
+| location = Alchemy Lab
+| vertical = 4
+| horizontal = 4
+| technology = Alchemy, Distillation
+| crafted = {{Item|Wooden Plank|2}}<br/>{{Item|Bronze Detail|2}}<br/>{{Item|Brick|12}}
+}}
+
+'''Distillation Cube''' is a [[workstation]] that can be build in the [[Alchemy Lab]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Alchemy Lab
+| item1 = Wooden Plank
+| item1Q = 2
+| item2 = Bronze Detail
+| item2Q = 2
+| item3 = Brick
+| item3Q = 12
+| tree = Anatomy and Alchemy
+| tech = Alchemy, Distillation
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

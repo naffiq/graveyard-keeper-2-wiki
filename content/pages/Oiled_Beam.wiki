@@ -1,0 +1,40 @@
+{{Item infobox
+| type = Wood
+| stack = 30
+| crafting = Woodworking Workbench II
+| crafted = {{Item|Melted Fat|1}}<br/>{{Item|Wooden beam|2}}
+| technology = Circular Saw (technology)
+| science = 10
+| RP = 25
+}}
+
+'''Oiled Beam''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Woodworking Workbench II
+| resultQ = 2
+| item1 = Melted Fat
+| item1Q = 1
+| item2 = Wooden beam
+| item2Q = 2
+| mastery = Orange
+| masteryQ = 6
+| tech = Circular Saw (technology)
+| tree = Building
+| ticks = 8
+| energy = 2
+| red = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| RP = 25
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

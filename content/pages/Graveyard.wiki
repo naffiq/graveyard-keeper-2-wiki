@@ -1,0 +1,19 @@
+{{Location infobox
+| connects = [[Church]]
+| area = Inquisition Base
+}}
+
+'''Graveyard''' is a [[location]] in the [[Inquisition Base]].
+
+== Graveyard Quality ==
+'''{{Icon|Graveyard Quality|size=20}} Graveyard Quality''' can be increased by building some blueprints.
+
+[[Corpses]] can be buried in designated locations, and various decorations can then be placed to further improve {{Icon|Graveyard Quality|size=20}}. However, a grave's quality can never exceed the number of {{Skull|White}} possessed by the corpse buried in it. Currently, the maximum {{Icon|Graveyard Quality|size=20}} a single corpse can provide is 14
+
+== Blueprint Desk ==
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}
+
+[[pt-br:Cemitério]]

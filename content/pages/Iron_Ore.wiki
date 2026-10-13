@@ -1,0 +1,31 @@
+{{Item infobox
+| type = Iron
+| stack = 50
+| science = 3
+| faith = 1
+| RP = 30
+| BP = 15
+| RR = 3
+}}
+'''Iron Ore''' is a crafting material.
+
+== Obtaining ==
+
+* Mining an iron ore rock (needs {{Mastery|Red|3}})
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 30
+| BP = 15
+| Faith = 1
+| RR = 3
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br: Minério de Ferro]]

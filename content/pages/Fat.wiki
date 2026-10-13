@@ -1,0 +1,24 @@
+{{Item infobox
+| type = Body part
+| stack = 30
+| science = 5
+| BP = 10
+}}
+
+'''Fat''' is a body part.
+
+== Obtaining ==
+
+* Remove from [[corpses]] (requires [[Soft parts]], removes 1 {{Skull|Red}})
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| BP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

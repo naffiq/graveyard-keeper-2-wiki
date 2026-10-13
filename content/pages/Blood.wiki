@@ -1,0 +1,30 @@
+{{Item infobox
+| type = Body part
+| stack = 30
+| science = 1
+| faith = 1
+| BP = 10
+| RP = 5
+| BR = 1
+}}
+
+'''Blood''' is a body part.
+
+== Obtaining ==
+* Remove from [[corpse]] (-1 {{Skull|Red}})
+
+== Study and alchemy ==
+{{Study
+| Science = 1
+| BP = 10
+| RP = 5
+| BR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Sangue]]

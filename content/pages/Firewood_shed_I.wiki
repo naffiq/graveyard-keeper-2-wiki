@@ -1,0 +1,29 @@
+{{Blueprint infobox
+| location = General
+| vertical = 2
+| horizontal = 2
+| technology = Bronze Melting
+| crafted = {{Item|Stick|10}}<br/>{{Item|Bronze Nails|2}}
+}}
+'''Firewood shed I''' is a blueprint used to store and generate {{Item|Fuel}}, which is required by certain workstations to craft items.
+
+All workstations of the same type within the same location share the same amount of Fuel. Each shed can store up to {{Item|Fuel|100}}.
+
+== Obtaining ==
+
+* Can be build in:
+** {{Blueprint|Yard|text=no}} [[Yard]]
+** {{Blueprint|Home|text=no}} [[Home]]
+** {{Blueprint|Alchemy Lab|text=no}} [[Alchemy Lab]]
+{{Recipe/Blueprint
+| location = General
+| result = Firewood shed I
+| item1 = Stick
+| item1Q = 10
+| item2 = Bronze Nails
+| item2Q = 2
+| tree = Metallurgy
+| tech = Bronze Melting
+}}
+== Navigation ==
+{{Blueprint navbox}}

@@ -1,0 +1,6 @@
+{{#dpl:
+| uses     = Template:Study
+| include  = {Item infobox}::science:faith:RP:GP:BP:RR:GR:BR
+| table    = class="wikitable sortable" style="text-align:center",-, Item, {{Icon|Science}}, {{Icon|Faith}}, {{Tech|Red}}, {{Tech|Green}}, {{Tech|Blue}}, {{Rune|Red}}, {{Rune|Green}}, {{Rune|Blue}}
+| tablerow = ²{Item¦%PAGE%}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²,²{#if:%%{{!}}%%{{!}}0}²
+}}

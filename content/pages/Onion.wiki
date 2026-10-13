@@ -1,0 +1,45 @@
+{{Item infobox
+| type = Farming
+| stack = 50
+| faith = 2
+| science = 2
+| GP = 30
+| GR = 2
+}}
+'''Onion''' is a crafting material. It can be consumed to restore {{Icon|Energy}}.
+
+== Quality ==
+{| class="fandom-table"
+!Quality
+!+{{Icon|Energy}}
+|-
+|Bronze
+|5
+|-
+|Silver
+|6
+|-
+|Gold
+|7
+|}
+
+== Obtaining ==
+
+* Buy from [[Herm]] or [[Vegetable Stand]].
+* Grow in [[Garden Bed]] with {{Item|Onion seed|4}} (requires {{Mastery|Green|10}})
+
+== Study and alchemy ==
+{{Study
+| Faith = 2
+| Science = 2
+| GP = 30
+| GR = 2
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Cebola]]

@@ -1,0 +1,54 @@
+{{Item infobox
+| type = Farming
+| stack = 99
+| crafting = Compost Pile
+| crafted = {{Item|Leaf|8}}
+| technology = Fertilizers I
+| science = 2
+| faith = 1
+| GP = 5
+| GR = 1
+| BR = 1
+}}
+'''Peat''' is a farming item.
+
+== Obtaining ==
+* {{Item|Compost Chemist}} adds +2 to the result (''only this recipe)'':
+
+{{Recipe
+| blueprint = Compost Pile
+| result = Peat
+| resultQ = 2
+| item1 = Leaf
+| item1Q = 8
+| mastery = Green
+| ticks = 3
+| green = 1
+}}
+
+* {{Item|Compost Chemist}} adds +5 to the result (''only this recipe)'':
+{{Recipe
+| blueprint = Compost Pile II
+| result = Peat
+| resultQ = 5
+| item1 = Leaf
+| item1Q = 16
+| mastery = Green
+| ticks = 5
+| green = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Faith = 1
+| Science = 2
+| GP = 5
+| GR = 1
+| BR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

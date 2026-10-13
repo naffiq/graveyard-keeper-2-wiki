@@ -1,0 +1,30 @@
+{{Item infobox
+| type = Alchemy
+| stack = 30
+| science = 2
+| faith = 2
+| GP = 30
+| BP = 50
+| RR = 1
+}}
+
+'''Red Mushroom''' is a crafting material.
+
+== Obtaining ==
+
+* Can be collected in the [[Forest]].
+
+== Study and alchemy ==
+{{Study
+| Science = 2
+| RR = 1
+| Faith = 2
+| GP = 30
+| BP = 50
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

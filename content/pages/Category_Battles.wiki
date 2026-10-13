@@ -1,0 +1,9 @@
+Town Battles are how you unlock new locations around the [[Locations|map]]. Each battle has a max number of [[Squads]], A minimum amount of [[Defense Power]], and cretin rewards.
+
+==  ==
+{{#dpl:
+|category = Battles
+|include = {Battles}:squads:defense_power:rewards
+|table = class="wikitable sortable", Battle, Squads, Defender Power, Rewards
+|tablerow = %% , %% , %% , %%
+}}

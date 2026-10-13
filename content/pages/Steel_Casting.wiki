@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Metallurgy
+| RP = 150
+| BP = 20
+| pre = [[Steel Smithing]]
+}}
+'''Steel Casting''' is a [[technology]] in the [[Metallurgy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Engineering Details}}
+|{{Item|Steel tools}}
+|{{Blueprint|Casting Table}}
+|}
+
+== Next technologies ==
+*[[Smithy II (technology)|Smithy II]]
+
+== Navigation ==
+{{Metallurgy navbox}}

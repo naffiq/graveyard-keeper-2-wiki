@@ -1,0 +1,39 @@
+{{Item infobox
+| type = Wood
+| stack = 30
+| crafting = Circular Saw
+| crafted = {{Item|Log|1}}
+| technology = Circular Saw (technology)
+| science = 10
+| RP = 20
+}}
+'''Wooden beam''' is a crafting material.
+
+== Obtaining ==
+* Sold by [[Furniture Maker]] and [[Builder]]
+* {{Item|Carpenter}} adds +1 to the result:
+
+{{Recipe
+| blueprint = Circular Saw
+| resultQ = 2
+| item1 = Log
+| mastery = Orange
+| masteryQ = 6
+| tech = Circular Saw (technology)
+| tree = Building
+| ticks = 8
+| energy = 3
+| red = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| RP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

@@ -1,0 +1,24 @@
+{{Item infobox
+| type = Consumable
+| stack = 20
+| science = 10
+| RP = 30
+| GP = 30
+| BP = 15
+}}
+
+'''Third Eye Salt''' is a consumable. Consuming it increases all [[Masteries]] by 2.
+
+== Obtaining ==
+{{Recipe/Alchemy|red=1|blue=5}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| RP = 10
+| GP = 30
+| BP = 15
+}}
+
+== Navigation ==
+{{Food navbox}}

@@ -1,0 +1,39 @@
+{{Item infobox
+| type = Wood
+| stack = 30
+| science = 10
+| RP = 25
+| BP = 10
+| crafting = Wooden Anvil
+| crafted = {{Item|Oiled Plank|1}}<br/>{{Item|Bronze Detail|2}}
+| technology = Reinforced Plank (technology)
+}}
+'''Reinforced Plank''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Wooden Anvil
+| item1 = Oiled Plank
+| mastery = Red
+| item1Q = 1
+| masteryQ = 4
+| resultQ = 1
+| tree = Building
+| tech = Reinforced Plank (technology)
+| result = Reinforced Plank
+| item2 = Bronze Detail
+| item2Q = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| RP = 25
+| BP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

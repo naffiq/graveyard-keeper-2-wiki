@@ -1,0 +1,41 @@
+'''Masteries''' is a game system in ''[[Graveyard Keeper 2]]''. Masteries determine which actions the [[Keeper]] and [[zombies]] can perform. Each action requires a specific type of Mastery. There are five types of Masteries, each represented by a different color and associated with a specific type of action. 
+
+* {{Mastery|Violet}} — associated with [[Corpse|corpses]].
+* {{Mastery|Green}} — associated with farming.
+* {{Mastery|Red}} — associated with construction.
+* {{Mastery|Orange}} — also associated with construction.
+* {{Mastery|Blue}} — associated with books.
+
+A certain amount of Mastery is required to craft items at workstations. The Keeper also needs a specific Mastery level to interact with certain elements of the environment, such as chopping down trees or fishing.
+
+== Upgrade mastery ==
+Mastery can be increased by equipping [[tools]] or through [[perks]]. The Keeper unlocks perks with [[Inspirations]], with no limit on the number of perks that can be unlocked. Zombies, on the other hand, unlock perks by spending {{Tech|Blue}}, {{Tech|Green}}, and {{Tech|Red}} points and are limited by the number of {{Skull|Red}} they have.
+
+Mastery can also be increased by consuming certain items:
+{| class="fandom-table"
+!Item
+!Mastery buff
+|-
+|{{Item|Vegetable salad}}
+|{{Mastery|Violet|+1}} (copper)<br />{{Mastery|Violet|+2}} (silver)<br />{{Mastery|Violet|+3}} (gold)
+|-
+|{{Item|Muffin}}
+|{{Mastery|Green|+2}}
+|-
+|{{Item|Soldier's stew}}
+|{{Mastery|Red|+2}}
+|-
+|{{Item|Pumpkin soup}}
+|{{Mastery|Orange|+2}}
+|-
+|{{Item|Bowl of sauerkraut}}
+|{{Mastery|Blue|+1}} (copper)<br/>{{Mastery|Blue|+2}} (silver)<br/>{{Mastery|Blue|+3}} (gold)
+|-
+|{{Item|Third Eye Salt}}
+|{{Mastery|Violet|+2}}<br/>{{Mastery|Green|+2}}<br/>{{Mastery|Red|+2}}<br/>{{Mastery|Orange|+2}}<br/>{{Mastery|Blue|+2}}
+|}
+
+== Navigation ==
+{{Game System navbox}}
+
+[[pt-br:Maestria]]

@@ -1,0 +1,19 @@
+{{Tech infobox
+| tree = Building
+| RP = 3
+| pre = [[The Concept of Wood]]
+}}
+'''Chopping''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|[[File:Firewood.png|link=Firewood]]
+|[[File:Wood wedge.png|link=Wood wedge]]
+|[[File:Chopping Spot (blueprint).png|link=Chopping Spot]]
+|}
+
+== Next technologies ==
+* None
+
+== Navigation ==
+{{Building navbox}}

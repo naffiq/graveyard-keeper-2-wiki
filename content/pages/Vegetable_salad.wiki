@@ -1,0 +1,63 @@
+{{Item infobox
+| type = Food
+| stack = 30
+| crafting = Kitchen Table
+| crafted = {{Item|Onion|2}}<br/>{{Item|Carrot|2}}<br/>{{Item|Beet|2}}
+| technology = Vegetable dishes
+| science = 2
+| GP = 5
+| BP = 5
+| energy = 15 <small>(bronze)</small><br/>20 <small>(silver)</small><br/>25 <small>(gold)</small>
+}}
+
+'''Vegetable salad''' is a [[food]] that increases {{Mastery|Violet}}for 7:30 minutes.
+
+== Variants ==
+{| class="fandom-table"
+!Quality
+!{{Item|Energy}}
+!Buff
+|-
+|Bronze
+|15
+|{{Mastery|Violet|+1}}
+|-
+|Silver
+|20
+|{{Mastery|Violet|+2}}
+|-
+|Gold
+|25
+|{{Mastery|Violet|+3}}
+|}
+
+== Obtaining ==
+* {{Item|Cook}} adds +2 to the result:
+
+{{Recipe
+| blueprint = Kitchen Table
+| result = Vegetable salad
+| resultQ = 2
+| item1 = Onion
+| item1Q = 2
+| item2 = Carrot
+| item2Q = 2
+| item3 = Beet
+| item3Q = 2
+| mastery = Green
+| masteryQ = 4
+| tech = Vegetable dishes
+| tree = Cooking
+| ticks = 8
+| green = 1
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 2
+| GP = 5
+| BP = 5
+}}
+
+== Navigation ==
+{{Food navbox}}

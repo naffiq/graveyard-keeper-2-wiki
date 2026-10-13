@@ -1,0 +1,36 @@
+{{Item infobox
+| type = Clay
+| stack = 30
+| science = 5
+| RP = 10
+| crafting = Potter's Wheel
+| technology = Pottery I
+| crafted = {{Item|Clay|2}}
+}}
+'''Clay Plate''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Potter's Wheel
+| item1 = Clay
+| mastery = Orange
+| item1Q = 2
+| masteryQ = 2
+| resultQ = 3
+| tree = Building
+| tech = Pottery I
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| RP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Placa de Argila]]

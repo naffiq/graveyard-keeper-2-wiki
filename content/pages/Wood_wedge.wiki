@@ -1,0 +1,37 @@
+{{Item infobox
+| type = Wood
+| stack = 50
+| science = 2
+| RP = 10
+| crafting = Chopping Spot
+| technology = Chopping
+| crafted = {{Item|Short Log|1}}
+}}
+'''Wood wedge''' is a crafting material.
+
+== Obtaining ==
+* {{Item|Axeman}} gives 5 additional wood wedge per craft
+
+{{Recipe
+| blueprint = Chopping Spot
+| item1 = Short Log
+| mastery = Orange
+| item1Q = 1
+| masteryQ = 3
+| resultQ = 10
+| tree = Building
+| tech = Chopping
+| result = Wood wedge
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

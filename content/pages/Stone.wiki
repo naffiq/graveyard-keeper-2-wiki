@@ -1,0 +1,27 @@
+{{Item infobox
+| type = Stone
+| stack = 30
+| faith = 1
+| science = 1
+| RR = 2
+| RP = 10
+}}
+'''Stone''' is a crafting material.
+
+== Obtaining ==
+* Remove stones (requires {{Mastery|Orange}})
+* {{Blueprint|Zombie Stone Quarry|text=no}} [[Zombie Stone Quarry]]
+
+== Study and alchemy ==
+{{Study
+| Faith = 1
+| Science = 1
+| RP = 10
+| RR = 2
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

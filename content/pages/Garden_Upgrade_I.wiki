@@ -1,0 +1,24 @@
+{{Blueprint infobox
+| location = Garden
+| technology = Garden Improvement I
+| crafted = {{Item|Peat|10}}<br/>{{Item|Bronze Nails|18}}<br/>{{Item|Wooden Plank|9}}
+}}
+'''Garden Upgrade I''' is a blueprint that can be build in the [[Garden]]. It can only be built once.
+
+Once built, it increases the base Bed Quality by {{Mastery|Green|+4}} (instead of +2) and reduces the tick length to 1:45 (from 2:00). It also increases the available space for building [[Garden Bed|Garden Beds]] from 10 to 20. Additionally, it unlocks the [[Garden Upgrade II]] [[technology]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Garden
+| item1 = Peat
+| item1Q = 10
+| item2 = Bronze Nails
+| item2Q = 18
+| item3 = Wooden Plank
+| item3Q = 9
+| tree = Farming
+| tech = Garden Improvement I
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

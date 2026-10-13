@@ -1,0 +1,4 @@
+{{Battles|Battle_Name=Operation POTATO: Part II|squads=3|defense_power=72|rewards=10x[[Zombie Goo]], 16x[[Town Gratitude]]}}
+
+Part II takes place immediately after part 1 without leaving the battle field. Any defenses used and still standing after Part I are reset and usable.
+[[Category:Battles]]

@@ -1,0 +1,38 @@
+{{Item infobox
+| type = Bronze
+| stack = 30
+| science = 3
+| crafting = Iron Anvil
+| crafted = {{Item|Bronze Ingot|1}}
+| technology = Iron Smithing
+| RP = 50
+}}
+
+'''Bronze Gear''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Iron Anvil
+| item1 = Bronze Ingot
+| mastery = Red
+| item1Q = 1
+| result = Bronze Gear
+| resultQ = 3
+| masteryQ = 5
+| tech = Iron Smithing
+| tree = Metallurgy
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 50
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Engrenagem de Bronze]]

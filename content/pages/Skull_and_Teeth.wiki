@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Anatomy and Alchemy
+| RP = 5
+| BP = 5
+| pre = [[Skin and Bones]]
+}}
+'''Skull and Teeth''' is a [[Technologies|technology]] in the [[Anatomy and Alchemy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Skull}}
+|{{Item|Tooth}}
+|}
+
+== Next technologies ==
+*[[Reanimation]]
+*[[Autopsy, Advanced]]
+
+== Navigation ==
+{{Anatomy and Alchemy navbox}}

@@ -1,0 +1,48 @@
+{{Item infobox
+| type = Wood
+| stack = 30
+| science = 5
+| RP = 15
+| crafting = Woodworking Workbench I
+| technology = Woodworking I
+| crafted = {{Item|Board|1}}
+}}
+
+'''Wooden Plank''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Woodworking Workbench I
+| item1 = Board
+| mastery = Orange
+| masteryQ = 2
+| item1Q = 1
+| result = Wooden Plank
+| resultQ = 1
+| tree = Building
+| tech = Woodworking I
+}}
+*{{Item|Carpenter}} adds +2 to the result (''only in this blueprint''):
+{{Recipe
+| blueprint = Circular Saw
+| item1 = Log
+| mastery = Orange
+| masteryQ = 4
+| item1Q = 1
+| result = Wooden Plank
+| resultQ = 1
+| tree = Building
+| tech = Woodworking I
+}}
+== Study and alchemy ==
+{{Study
+| Science = 5
+| RP = 15
+| BP = 
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

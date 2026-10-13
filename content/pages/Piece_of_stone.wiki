@@ -1,0 +1,39 @@
+{{Item infobox
+| type = Stone
+| stack = 30
+| science = 2
+| RP = 20
+| crafting = Stonemason's Workbench
+| crafted = {{Item|Stone|2}}<br/>{{Item|Wood wedge|4}}
+| technology = The Concept of Stone
+}}
+'''Piece of stone''' is a crafting material.
+
+== Obtaining ==
+*Buy from [[Builder]].
+
+{{Recipe
+| blueprint = Stonemason's Workbench
+| item1 = Stone
+| mastery = Orange
+| item1Q = 2
+| masteryQ = 3
+| resultQ = 4
+| tree = Building
+| tech = The Concept of Stone
+| result = Piece of stone
+| item2 = Wood wedge
+| item2Q = 4
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 2
+| RP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

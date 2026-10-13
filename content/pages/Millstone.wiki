@@ -1,0 +1,23 @@
+{{Blueprint infobox
+| location = Home
+| technology = Woodworking I
+| crafted = {{Item|Board|2}}<br/>{{Item|Piece of stone|2}}
+}}
+'''Millstone''' is a [[workstation]] that can be build in the [[Home]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Home
+| item1 = Board
+| item1Q = 2
+| item2 = Piece of stone
+| item2Q = 2
+| tree = Farming
+| tech = Millstone (technology)
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

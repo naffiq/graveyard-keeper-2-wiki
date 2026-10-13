@@ -1,0 +1,11 @@
+{{Location infobox
+| area = Town
+| connects = [[Town]]
+}}
+'''Town Warehouse''' is a location inside the [[Town]]. Is locked until complete the [[quest]] "[[Docked and Found]]" and you talk to [[Jack]] in front of the Warehouse.
+
+== Town orders ==
+Here, the [[Keeper]] can accept town orders during {{Icon|Pride|size=25}} and complete them by delivering Supply Crates.
+
+== Navigation ==
+{{Location navbox}}

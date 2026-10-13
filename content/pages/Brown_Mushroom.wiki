@@ -1,4 +1,0 @@
-The Brown mushroom can be found in most areas outside the city.
-
-Consuming the Brown mushroom refills 4 energy
-[[Category:Food]]

@@ -1,0 +1,12 @@
+{{Location infobox
+| area = Inquisition Base
+| connects = [[Yard]]<br/>[[Inquisition Base]]
+}}
+
+'''Garden''' is a [[Locations|location]] in the [[Inquisition Base]], next to [[Yard]]. It is used for growing crops.
+
+== Blueprint Desk ==
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}

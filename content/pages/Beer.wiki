@@ -1,0 +1,46 @@
+{{Item infobox
+| type = Food
+| stack = 50
+| crafting = Brewing Stand
+| crafted = {{Item|Hops|5}}<br/>{{Item|Water|5}}<br/>{{Item|Fuel|10}}
+| technology = Brewing
+| science = 10
+| GP = 30
+| BP = 10
+| insanity = -12
+}}
+
+'''Beer''' is a [[food]]. It can be consumed to restore {{Icon|Insanity|12}}.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Brewing Stand
+| result = Beer
+| resultQ = 5
+| item1 = Hops
+| item1Q = 5
+| item2 = Water
+| item2Q = 5
+| item3 = Fuel
+| item3Q = 10
+| mastery = Green
+| masteryQ = 6
+| tech = Brewing
+| tree = Farming
+| ticks = 6
+| energy = 2
+| green = 1
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| GP = 30
+| BP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Food navbox}}

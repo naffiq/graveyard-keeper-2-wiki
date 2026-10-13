@@ -1,0 +1,13 @@
+{{NPC infobox
+| location = [[Crossroads]]}}
+'''Nun''' is a [[character]] in ''[[Graveyard Keeper 2]]''. She appears in the [[Village]] [[Village Tavern|Tavern]] after completing the [[quest]] "[[Jack in a Boat]]" and later moves to [[Crossroads]] after completing the quest "[[Holy Moly!]]".
+
+== Quest related ==
+
+* [[Holy Moly!]]
+* [[Nun of Your Business]]
+
+== Navigation ==
+{{Character navbox}}
+
+[[pt-br:Agatha]]

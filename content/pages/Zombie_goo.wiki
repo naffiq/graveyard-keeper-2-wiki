@@ -1,0 +1,28 @@
+{{Item infobox
+| type = Alchemy
+| stack = 99
+| science = 3
+| faith = 2
+| BP = 20
+| BR = 2
+}}
+'''Zombie goo''' is an alchemy material.
+
+== Obtaining ==
+
+* Reward for certain [[Town Battles]].
+* Buy from [[Gunter]].
+
+== Study and alchemy ==
+{{Study
+| Faith = 2
+| Science = 3
+| BP = 20
+| BR = 2
+}}
+
+== Uses ==
+{{Uses|alchemy=yes}}
+
+== Navigation ==
+{{Item navbox}}

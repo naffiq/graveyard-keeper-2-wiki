@@ -1,0 +1,24 @@
+'''Perk''' are passive abilities that provide bonuses to various activities. 
+
+[[Keeper]] can acquire perks by purchasing them from the [[Inspirations#Talent tree|Talent Tree]] using Inspiration Points, with no limit on the number of perks he can obtain. [[Zombies]] acquire their perks using {{Tech|Red}}{{Tech|Green}}{{Tech|Blue}}, with the number of perks they can obtain limited by their {{Skull|Red}}.
+
+== List of perks ==
+
+=== Building ===
+
+=== Farming ===
+
+=== Metallurgy ===
+
+=== Book ===
+
+=== Anatomy ===
+{{#dpl:
+| category     = Anatomy perks
+| include      = {Perk infobox}::
+| table        = class="wikitable",-, Perk, Effects
+| tablerow     = ²{Item{{!}}%PAGE%}²,²{#lsth:%PAGE%{{!}}Effects}²
+}}
+
+== Navigation ==
+{{Game System navbox}}

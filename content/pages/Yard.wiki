@@ -1,0 +1,12 @@
+{{Location infobox
+| area = Inquisition Base
+| connects = [[Home]]<br/>[[Inquisition Base]]<br/>[[Garden]]
+}}
+
+'''Yard''' is a location directly outside the [[Home]]. It contains most of the [[workstations]].
+
+== Blueprint Desk ==
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}

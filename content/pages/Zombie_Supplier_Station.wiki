@@ -1,0 +1,27 @@
+{{Blueprint infobox
+| location = General
+| vertical = 4
+| horizontal = 4
+| technology = Zombie Assistant
+| crafted = {{Item|Wooden Plank|4}}<br/>{{Item|Bronze Nails|4}}
+}}
+'''Zombie Supplier Station''' is a blueprint that allows a [[zombie]] to transport the materials required by workstations and collect the finished products, placing them in chests.
+
+== Obtaining ==
+
+* Can be build in:
+** {{Blueprint|Yard|text=no}} [[Yard]]
+** {{Blueprint|Home|text=no}} [[Home]] (needs [[Kitchen II]], not [[Zombie Assistant]])
+** {{Blueprint|Alchemy Lab|text=no}} [[Alchemy Lab]]
+{{Recipe/Blueprint
+| location = General
+| result = Zombie Supplier Station
+| item1 = Wooden Plank
+| item1Q = 4
+| item2 = Bronze Nails
+| item2Q = 4
+| tree = Building
+| tech = Zombie Assistant
+}}
+== Navigation ==
+{{Blueprint navbox}}

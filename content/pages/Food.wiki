@@ -1,0 +1,12 @@
+'''Food''' is a type of item that can be consumed to restore {{Item|Energy}} and gain various effects.
+
+== List of food ==
+{{#dpl:
+| category = Food
+| include  = {Item infobox}::energy
+| table    = class="wikitable sortable" style="text-align:center",-, Item,{{Icon|Energy}}
+| tablerow = ²{Item¦%PAGE%}²,²{#if:%%{{!}}%%{{!}}0}²
+}}
+
+== Navigation ==
+{{Game System navbox}}

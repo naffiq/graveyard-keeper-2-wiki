@@ -1,0 +1,14 @@
+{{Item infobox
+| type = Resource
+| stack = 100
+}}
+
+'''Energy''' is one of the resources of the [[Keeper]]. Almost all actions consume Energy, with working at a [[workstation]] being one of the main uses. Each action has its own Energy cost.
+
+The maximum amount of Energy is 100, but this can be reduced by {{Item|Insanity}}. Energy can only be restored by eating food or sleeping. The Energy bar can be viewed at any time in the upper-left corner of the screen, next to the [[days]]. The exact current Energy value is not displayed.
+
+== Lack of sleep ==
+If the Keeper stays awake for more than two days, he gains the '''Lack of Sleep''' effect. While this effect is active, every point of Energy consumed adds 0.5 points of {{Item|Insanity}}. The effect is removed by sleeping
+
+== Navigation ==
+{{Resource navbox}}

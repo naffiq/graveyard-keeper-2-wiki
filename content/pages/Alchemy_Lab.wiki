@@ -1,0 +1,13 @@
+{{Location infobox
+| connects = [[Yard]]<br/>[[Plague Doctor's Lab]]
+| area = Inquisition Base
+}}
+'''Alchemy Lab''' is a [[location]] in the [[Inquisition Base]] that becomes accessible after completing the [[Quests|quest]] "[[Dungeons and... that's it, probably.]]"
+
+It comes with a [[Simple Chest|simple chest]], a [[flask shelf]], a [[Laboratory I]], and a [[Study Table]] built by default.
+
+== Blueprint Desk ==
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}

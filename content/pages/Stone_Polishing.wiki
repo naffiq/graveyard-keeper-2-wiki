@@ -1,0 +1,19 @@
+{{Tech infobox
+| tree = Building
+| RP = 20
+| pre = [[The Concept of Stone]]<br/>[[Tool Rack (technology)|Tool Rack]]
+| GP = 5
+}}
+'''Stone Polishing''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Polished Stone}}
+|{{Item|Stone Kit}}
+|}
+
+== Next technologies ==
+* ¿?
+
+== Navigation ==
+{{Building navbox}}

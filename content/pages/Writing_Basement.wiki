@@ -1,0 +1,12 @@
+{{Location infobox
+| connects = [[Home]]
+| area = Inquisition Base
+}}
+
+'''Writing Basement''' is a [[location]] under [[Home]] that becomes accessible after completing the [[Quests|quest]] "[[Good Fellow]]".
+
+== Blueprint Desk ==
+{{Blueprints|Writing Room|Firewood shed %}}
+
+== Navigation ==
+{{Location navbox}}

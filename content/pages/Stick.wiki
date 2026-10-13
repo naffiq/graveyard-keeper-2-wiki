@@ -1,0 +1,30 @@
+{{Item infobox
+| type = Wood
+| stack = 50
+| crafting = [[Lumberjack stand]]
+| science = 1
+| faith = 1
+| RP = 5
+| GP = 5
+| GR = 1
+}}
+'''Stick''' is a crafting material.
+
+== Obtaining ==
+* Remove bushes (requires {{Mastery|Green|2}})
+* Remove tree stumps
+
+== Study ==
+{{Study
+| Faith = 1
+| Science = 1
+| RP = 5
+| GP = 5
+| GR = 1
+}}
+
+== Uses ==
+{{Recipes}}
+
+== Navigation ==
+{{Item navbox}}

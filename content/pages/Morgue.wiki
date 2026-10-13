@@ -1,0 +1,27 @@
+{{Location infobox
+| area = Inquisition Base
+| connects = [[Yard]]<br/>[[Resurrection Lab]]
+}}'''Morgue''' is a [[location]] where the [[Keeper]] can work with [[Corpse|corpses]], extracting body parts to improve their {{Skull|Red}} or {{Skull|White}} values.
+
+== Repairs ==
+{| class="fandom-table"
+!Blueprint
+!Materials
+!Mastery
+|-
+| align="center" |{{Blueprint|Old Door}}
+|{{Item|Bronze Detail|1}}<br/>{{Item|Melted Fat|1}}
+|{{Mastery|Orange|1}}
+|-
+|{{Repair|Blockage}}
+|{{Item|Iron Detail|1}}<br />{{Item|Oiled Plank|3}}
+|{{Mastery|Orange|3}}
+|}
+
+== Blueprint Desk ==
+{{Blueprints|general=no}}
+
+== Navigation ==
+{{Location navbox}}
+
+[[pt-br:Necrotério]]

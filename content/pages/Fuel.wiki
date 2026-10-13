@@ -1,0 +1,15 @@
+{{Item infobox
+| type = Wood
+| stack = 100
+}}
+'''Fuel''' is a resource created and stored in the [[Firewood shed I]] or [[Firewood shed II]].
+
+== Obtaining ==
+
+* Every {{Item|Firewood}} creates {{Item|Fuel|20}}.
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

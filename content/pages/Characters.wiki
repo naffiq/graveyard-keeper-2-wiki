@@ -1,0 +1,31 @@
+'''Characters''' is a game system in ''[[Graveyard Keeper 2]]''. Characters offer [[quests]], and some also trade items.
+
+All character share a {{Icon|Reputation}} reputation meter that increases when a quest is completed.
+
+== List of characters ==
+=== Base ===
+{| style="vertical-align:top;"
+|[[File:Keeper.png|link=Keeper]]<br/>[[Keeper]]
+|[[File:Larry.png|link=Larry]]<br/>[[Larry]]
+|[[File:Plague Doctor.png|link=Plague Doctor]]<br/>[[Plague Doctor]]
+|}
+
+=== Crossroads ===
+{| style="vertical-align:top;"
+|[[File:Nun.png|link=Nun]]<br/>[[Nun]]
+|[[File:Herbert.png|link=Herbert]]<br/>[[Herbert]]
+|}
+
+=== Village ===
+{| style="vertical-align:top;"
+|[[File:Januarius.png|link=Januarius]]<br/>[[Januarius]]
+|[[File:Jully.png|link=Jully]]<br/>[[Jully]]
+|[[File:Herm.png|link=Herm]]<br/>[[Herm]]
+|[[File:Jack.png|link=Jack]]<br/>[[Jack]]
+|}
+
+== Navigation ==
+{{Game System navbox}}
+[[Category:Characters]]
+
+[[pt-br:Personagens]]

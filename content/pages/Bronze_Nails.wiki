@@ -1,0 +1,43 @@
+{{Item infobox
+| type = Bronze
+| stack = 30
+| science = 3
+| RP = 20
+| BP = 15
+| crafting = Wooden Anvil
+| crafted = {{Item|Bronze Scrap|1}}
+| technology =  Bronze Works
+}}
+'''Bronze Nails''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Wooden Anvil
+| item1 = Bronze Scrap
+| mastery = Red
+| resultQ = 6
+| technology =  Bronze Works
+}}
+{{Recipe
+| blueprint = Wooden Anvil
+| item1 = Bronze Ingot
+| mastery = Red
+| resultQ = 12
+| masteryQ = 2
+| technology  = Bronze Melting
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 20
+| BP = 15
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Pregos de Bronze]]

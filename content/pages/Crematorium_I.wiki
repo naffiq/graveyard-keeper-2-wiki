@@ -1,0 +1,22 @@
+{{Blueprint infobox
+| location = Morgue
+| technology = Body Places I
+| crafted = {{Item|Brick|6}}<br/>{{Item|Bronze Detail|6}}
+}}
+'''Crematorium I''' is a blueprint that can be build in the [[Morgue]].
+
+Here, the [[Keeper]] can cremate [[corpses]] to dispose of them and obtain {{Item|Ash|5}} and {{Item|Salt|1}} in return. With the [[Cremator]] [[Perks|perk]], the amount of materials obtained is doubled.
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Morgue
+| item1 = Brick
+| item1Q = 6
+| item2 = Bronze Detail
+| item2Q = 6
+| tree = Anatomy and Alchemy
+| tech = Body Places I
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

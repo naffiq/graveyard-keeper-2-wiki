@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Building
+| RP = 15
+| pre = [[The Concept of Wood]]
+}}
+'''The Concept of Stone''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|[[File:Piece of stone.png|link=Piece of stone]]
+|[[File:Stonemason's Workbench (blueprint).png|link=Stonemason's Workbench]]
+|}
+
+== Next technologies ==
+* [[Tool Rack]]
+* [[Pottery I]]
+* [[Stone Polishing]]
+
+== Navigation ==
+{{Building navbox}}

@@ -1,0 +1,15 @@
+{{Perk infobox
+| tree = Anatomy
+| desc = You've been seeing things since childhood. Autopsies require less {{Icon|Energy}} and cause less {{Icon|Insanity}}.
+| pre =  Anatomy mastery +1
+}}
+'''Son of a butcher''' is a [[Keeper]] [[perk]] available in the [[Inspirations/Anatomy|Anatomy talent tree]].
+
+== Prerequisites ==
+*{{Mastery|Violet}} Anatomy mastery +1
+
+== Effects ==
+Despite what the tooltip says, it currently has no effect.
+
+== Navigation ==
+{{Perk navbox}}

@@ -1,0 +1,30 @@
+{{Blueprint infobox
+| horizontal = 4
+| vertical = 3
+| technology = Delicate Work
+| crafted = {{Item|Wooden Plank|4}}<br/>{{Item|Bronze Nails|12}}<br/>{{Item|Glass|3}}
+| location = Writing Room
+}}
+
+'''Jewelry Table''' is a {{Mastery|Red}}[[workstation]] that can be build in the [[Writing Room]].
+
+Here, the [[Keeper]] can create zombie collars, [[tools]] to upgrade {{Mastery|Blue}}and {{Mastery|Violet}}, and other items.
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Writing Room
+| item1 = Wooden Plank
+| item1Q = 4
+| item2 = Bronze Nails
+| item2Q = 12
+| item3 = Glass
+| item3Q = 3
+| tree = Theology
+| tech = Delicate Work
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

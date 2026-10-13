@@ -1,0 +1,28 @@
+{{Blueprint infobox
+| vertical = 4
+| horizontal = 5
+| location = Yard
+| technology = Circular Saw (technology)
+| crafted = {{Item|Wooden Plank|10}}<br/>{{Item|Bronze Gear|2}}<br/>{{Item|Iron Nails|10}}
+}}
+'''Circular Saw''' is a [[workstation]] that can be build in the [[Yard]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Yard
+| result = Circular Saw
+| item1 = Wooden Plank
+| item1Q = 10
+| item2 = Bronze Gear
+| item2Q = 2
+| item3 = Iron Nails
+| item3Q = 10
+| tree = Building
+| tech = Circular Saw (technology)
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

@@ -1,0 +1,126 @@
+{{Item infobox
+| type = Alchemy
+| stack = 99
+| crafting = Distillation Cube
+| crafted = {{Item|Wine|1}}<br/>{{Item|Clay Urn|2}}<br/>{{Item|Fuel|20}}
+| technology = Reanimation Liquid (technology)
+| science = 2
+| faith = 2
+| GP = 15
+| BP = 10
+| BR = 3
+}}
+
+'''Alcohol''' is a crafting material.
+
+== Obtaining ==
+
+* Sold by [[Apothecary]]
+
+* {{Item|Cube distillations}} adds +3 to the result (''only this recipe''):
+
+{{Recipe
+| blueprint = Distillation Cube
+| result = Alcohol
+| resultQ = 4
+| item1 = Wine
+| item2 = Clay Urn
+| item2Q = 2
+| item3 = Fuel
+| item3Q = 20
+| mastery = Violet
+| masteryQ = 3
+| tech = Reanimation Liquid (technology)
+| tree = Anatomy and Alchemy
+| ticks = 8
+| red = 1
+| blue = 1
+}}
+
+* {{Item|Cube distillations}} adds +1 to the result:
+{{Recipe
+| blueprint = Distillation Cube
+| result = Alcohol
+| resultQ = 1
+| item1 = Berry Cider
+| item2 = Clay Urn
+| item2Q = 2
+| item3 = Fuel
+| item3Q = 20
+| mastery = Violet
+| masteryQ = 3
+| tech = Reanimation Liquid (technology)
+| tree = Anatomy and Alchemy
+| ticks = 8
+| red = 1
+| blue = 1
+}}
+
+{{Recipe
+| blueprint = Distillation Cube
+| result = Alcohol
+| resultQ = 2
+| item1 = Blueberry Cider
+| item2 = Clay Urn
+| item2Q = 2
+| item3 = Fuel
+| item3Q = 20
+| mastery = Violet
+| masteryQ = 3
+| tech = Reanimation Liquid (technology)
+| tree = Anatomy and Alchemy
+| ticks = 8
+| red = 1
+| blue = 1
+}}
+
+{{Recipe
+| blueprint = Distillation Cube
+| result = Alcohol
+| resultQ = 1
+| item1 = Mead
+| item2 = Clay Urn
+| item2Q = 2
+| item3 = Fuel
+| item3Q = 20
+| mastery = Violet
+| masteryQ = 3
+| tech = Reanimation Liquid (technology)
+| tree = Anatomy and Alchemy
+| ticks = 8
+| red = 1
+| blue = 1
+}}
+
+{{Recipe
+| blueprint = Distillation Cube
+| result = Alcohol
+| resultQ = 1
+| item1 = Beer
+| item2 = Clay Urn
+| item2Q = 2
+| item3 = Fuel
+| item3Q = 20
+| mastery = Violet
+| masteryQ = 3
+| tech = Reanimation Liquid (technology)
+| tree = Anatomy and Alchemy
+| ticks = 8
+| red = 1
+| blue = 1
+}}
+
+== Study and alchemy ==
+{{Study
+| Faith = 2
+| Science = 2
+| GP = 15
+| BP = 10
+| BR = 3
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

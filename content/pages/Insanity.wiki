@@ -1,0 +1,66 @@
+{{Item infobox
+| type = Resource
+| stack = 80
+}}
+
+'''Insanity''' is one of the resources of the [[Keeper]]. Insanity is gained by performing certain actions, such as eating [[flesh]] or working in the [[Graveyard]]. Each point of Insanity reduces the maximum {{Item|Energy}} by 1. The maximum amount of Insanity is 80, or 70 with the {{Item|Iron Will}} [[perk]].
+
+Insanity can only be reduced by sleeping while affected by '''Lack of Sleep''', consuming certain foods, or writing stories.
+
+== Reduce insanity ==
+{| class="fandom-table"
+!Item
+!Insanity
+|-
+| rowspan="3" |{{Item|Wine}}
+| -35 (gold)
+|-
+| -30 (silver)
+|-
+| -25 (bronze)
+|-
+|{{Item|Beer}}
+| -12
+|-
+|{{Item|Blueberry Cider}}
+| -10
+|-
+|{{Item|Mead}}
+| -10
+|-
+|{{Item|Apple Cider}}
+| -7
+|-
+|{{Item|Berry Cider}}
+| -7
+|}
+
+== Gain insanity ==
+{| class="fandom-table"
+!Item
+!Insanity
+|-
+|{{Item|Swamp mushroom}}
+| +1
+|-
+|{{Item|Lasagna}}
+| +1
+|-
+|{{Item|Burger}}
+| +5
+|-
+|{{Item|Sandwich}}
+| +5
+|-
+|{{Item|Baked meat}}
+| +10
+|-
+|{{Item|Flesh}}
+| +10
+|-
+|{{Item|Soldier's ale}}
+| +20
+|}
+
+== Navigation ==
+{{Resource navbox}}

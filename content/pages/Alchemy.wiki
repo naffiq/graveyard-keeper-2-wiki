@@ -1,0 +1,13 @@
+'''Alchemy''' is a game system in ''[[Graveyard Keeper 2]]''. The [[Keeper]] can create alchemical recipes using [[File:Flask.png|link=]] flask and a combination of {{Rune|Red}}{{Rune|Green}}{{Rune|Blue}} runes. Flask need to be placed in the [[flask shelf]], while Runes are found on items and must be revealed by [[Study|studying]] them.  
+
+== Runes ==
+The following is a list of items with runes:
+<div class="mw-collapsible mw-collapsed"> {{#lsth:Study/Runes}} </div>
+
+== Recipes ==
+Alchemy recipes are created in a [[Laboratory]]. The result is determined solely by the Runes of the items placed in the Laboratory. Their Runes are combined, and the resulting recipe depends on the total number of each Rune rather than the specific items used. This allows the same recipe to be created using different combinations of items, as long as they provide the same total number of Runes.
+
+{{#lsth:Alchemy/Recipes}}
+
+== Navigation ==
+{{Game System navbox}}

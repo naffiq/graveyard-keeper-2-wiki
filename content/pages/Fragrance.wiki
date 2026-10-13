@@ -1,0 +1,46 @@
+{{Item infobox
+| type = Church
+| stack = 99
+| crafting = Distillation Cube
+| crafted = {{Item|Rhododendron|2}}<br/>{{Item|Clay Urn|2}}<br/>{{Item|Fuel|20}}
+| technology = Church Smells I
+| science = 2
+| faith = 2
+| BP = 10
+| GP = 15
+| GR = 3
+}}
+'''Fragrance''' is a crafting material.
+
+== Obtaining ==
+* {{Item|Cube distillations}} adds +3 to the result.
+* {{Item|Dead distiller}} adds +2 to the result (''only [[zombies]]'').
+{{Recipe
+| blueprint = Distillation Cube
+| item1 = Rhododendron
+| item1Q = 2
+| item2 = Clay Urn
+| item2Q = 2
+| item3 = Fuel
+| item3Q = 20
+| mastery = Violet
+| masteryQ = 2
+| tree = 8
+| red = 1
+| blue = 1
+}}
+
+== Study and alchemy ==
+{{Study
+| Faith = 2
+| Science = 2
+| GP = 15
+| BP = 10
+| GR = 3
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

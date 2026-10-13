@@ -1,0 +1,33 @@
+{{Item infobox
+| type = Farming
+| stack = 99
+| science = 2
+| faith = 2
+| RP = 10
+| GP = 20
+| RR = 1
+| GR = 1
+}}
+
+'''Flax''' is a crafting material.
+
+== Obtaining ==
+
+* Grow in [[Garden Bed]] with {{Item|Flax Seed|4}} (requires {{Mastery|Green|5}})
+* Sold by [[Tailor]].
+
+== Study and alchemy ==
+{{Study
+| Faith = 2
+| Science = 2
+| RP = 10
+| GP = 20
+| RR = 1
+| GR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

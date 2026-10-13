@@ -1,0 +1,44 @@
+<mainpage-leftcolumn-start />
+<!--The code you see using the source editor is used to insert all the content inside the left and right columns. Please don't remove it from the Main Page because it's the optimal main page structure, and accommodates the main page ad. -->
+
+[[File:Site-logo.png|center]]
+
+Welcome to the '''{{SITENAME}}'''! We're a collaborative community about {{topic}} created by fans and for fans like you! This wiki is an online encyclopedia which [[w:Help:Editing|anyone can edit]] and contribute to, [[Special:CreatePage|creating a new page]] or [[Special:AllPages|improving an existing one]]. If you're new and don't know where to start, feel free to reach out to one of our [[Special:ListUsers/sysop|administrators]] or check out [[w:Help:Getting Started|these Fandom help pages]]!
+
+==Information==
+{| class="fandom-table"
+!System
+|[[Characters]]
+|[[Locations]]
+|[[Versions]]
+|-
+!Mechanics
+|[[Quests]]
+|[[Technologies]]
+|[[Study]]
+|}
+
+== About Graveyard Keeper 2 ==
+The most inaccurate medieval cemetery sim is back!
+
+Restore The Town, manage the graveyard, automate production, lead your undead army into battle and turn the zombie problem into a thriving business! Graveyard Keeper 2 is the grotesque sequel that’s deeper than six feet, and more unhinged than ever!
+<mainpage-endcolumn /><mainpage-rightcolumn-start />
+<!-- These two lines of code you see using the source editor are also essential as they are used to close the left column and open the right column. -->
+==Official links==
+*[https://www.graveyardkeeper2.com/ Official page]
+*[https://store.playstation.com/concept/10018528 PlayStation Store]
+*[https://store.steampowered.com/app/4358690/Graveyard_Keeper_2/ Steam]
+*[http://microsoft.com/store/productid/9pfzq5gnm8tj XBox]
+*[https://www.nintendo.com/us/store/products/graveyard-keeper-2-switch/ Switch]
+*[https://www.nintendo.com/us/store/products/graveyard-keeper-2-switch-2/ Switch 2]
+
+<!--As a wiki admin, don't forget to participate on Discussions and moderate what's happening there. You can also assign specific Moderators to help you there.-->
+==Other links==
+*[https://discord.com/invite/lazybeargames Lazy Bear Games Discord]
+<!-- These suggested pages are always useful. If you want to improve the Main Page with different content, don't forget to keep references for new people to help them participate on your community. -->
+<mainpage-endcolumn />
+[[Category:{{SITENAME}}]]
+__NOTOC__
+__noeditsection__
+<!--The column tag you see while using the source editor is needed to close the right column. You also have to include the Main Page into a general wiki category, like the Sitename. __Notoc__ and __Noeditsection__ are used to hide the Table of Contents and the Edit pencil button in the section titles, as the Main Page has a different design from the normal content pages.-->
+[[pt-br:]]

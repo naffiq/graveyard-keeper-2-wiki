@@ -1,0 +1,32 @@
+{{Item infobox
+| type = Others
+| stack = 99
+| science = 2
+| faith = 2
+| RP = 20
+| GP = 10
+| RR = 1
+| GR = 2
+}}
+
+'''Coal''' is a crafting material.
+
+== Obtaining ==
+
+* {{Blueprint|Zombie Miner|text=no}} [[Zombie Miner]]
+
+== Study and alchemy ==
+{{Study
+| Science = 2
+| Faith = 2
+| RP = 20
+| GP = 10
+| RR = 1
+| GR = 2
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

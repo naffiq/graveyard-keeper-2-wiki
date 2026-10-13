@@ -1,0 +1,38 @@
+{{Item infobox
+| type = Tool
+| stack = 1
+| crafting = Wooden Anvil
+| science = 3
+| RP = 30
+| BP = 5
+| crafted = {{Item|Stick|2}}<br/>{{Item|Bronze Detail|2}}<br/>{{Item|Bronze Ingot|1}}
+| technology = Bronze Blades
+}}
+'''Bronze Axe''' is a [[tool]] that grants {{Mastery|Orange|+2}}.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Wooden Anvil
+| extension = Hardening Bucket
+| item1 = Stick
+| mastery = Red
+| result = Bronze Axe
+| item1Q = 2
+| item2 = Bronze Detail
+| item2Q = 2
+| item3 = Bronze Ingot
+| item3Q = 1
+| masteryQ = 2
+| tech = Bronze Blades
+| tree = Metallurgy
+}}
+
+== Study ==
+{{Study
+| Science = 3
+| RP = 30
+| BP = 5
+}}
+
+== Navigation ==
+{{Tool navbox}}

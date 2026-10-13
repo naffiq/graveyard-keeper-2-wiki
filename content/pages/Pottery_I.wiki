@@ -1,0 +1,19 @@
+{{Tech infobox
+| tree = Building
+| RP = 10
+| pre = [[The Concept of Stone]]
+| GP = 5
+}}
+'''Pottery I''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Clay Plate}}
+|{{Blueprint|Potter's Wheel}}
+|}
+
+== Next technologies ==
+* [[Brick Making]]
+
+== Navigation ==
+{{Building navbox}}

@@ -1,0 +1,42 @@
+{{Item infobox
+| type = Steel
+| stack = 30
+| science = 5
+| crafting = Furnace II
+| crafted = {{Item|Steel Ingot|1}}
+| technology = Steel Casting
+| RP = 50
+| BP = 20
+}}
+'''Engineering Details''' is a crafting material.
+
+== Obtaining ==
+* Buy from [[Smithy]]
+*{{Item|Gear Master}} adds +1 to the result:
+{{Recipe
+| blueprint = Furnace II
+| extension = Casting Table
+| item1 = Steel Ingot
+| item1Q = 1
+| result = Engineering Details
+| resultQ = 2
+| mastery = Red
+| masteryQ = 12
+| tech = Steel Casting
+| tree = Metallurgy
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| RP = 70
+| BP = 25
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Detalhes de Engenharia]]

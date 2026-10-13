@@ -1,0 +1,2 @@
+{{Battles|Battle_Name=Eastern Districts Purge|squads=2|defense_power=20|rewards=[[Victory Banner]], 6x[[Zombie Goo]] 4x[[Town Gratitude]]}}
+[[Category:Battles]]

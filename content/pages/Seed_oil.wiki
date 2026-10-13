@@ -1,0 +1,100 @@
+{{Item infobox
+| type = Food material
+| stack = 50
+| crafting = Millstone
+| science = 2
+| faith = 1
+| GP = 10
+| BR = 1
+| crafted = {{Item|What seed|4}}
+| technology = Millstone (technology)
+}}
+
+'''Seed oil''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Millstone
+| item1 = Flax Seed
+| mastery = Green
+| item1Q = 4
+| masteryQ = 2
+| tech = Millstone (technology)
+| tree = Farming
+| result = Seed oil
+| resultQ = 2
+}}{{Recipe
+| blueprint = Millstone
+| item1 = Wheat seed
+| mastery = Green
+| item1Q = 4
+| masteryQ = 2
+| tech = Millstone (technology)
+| tree = Farming
+| result = Seed oil
+| resultQ = 2
+}}{{Recipe
+| blueprint = Millstone
+| item1 = Beet Seed
+| mastery = Green
+| item1Q = 4
+| masteryQ = 2
+| tech = Millstone (technology)
+| tree = Farming
+| result = Seed oil
+| resultQ = 2
+}}{{Recipe
+| blueprint = Millstone
+| item1 = Carrot seed
+| mastery = Green
+| item1Q = 4
+| masteryQ = 2
+| tech = Millstone (technology)
+| tree = Farming
+| result = Seed oil
+| resultQ = 2
+}}{{Recipe
+| blueprint = Millstone
+| item1 = Cabbage seed
+| mastery = Green
+| item1Q = 4
+| masteryQ = 2
+| tech = Millstone (technology)
+| tree = Farming
+| result = Seed oil
+| resultQ = 2
+}}{{Recipe
+| blueprint = Millstone
+| item1 = Onion seed
+| mastery = Green
+| item1Q = 4
+| masteryQ = 2
+| tech = Millstone (technology)
+| tree = Farming
+| result = Seed oil
+| resultQ = 2
+}}{{Recipe
+| blueprint = Millstone
+| item1 = Pumpkin Seeds
+| mastery = Green
+| item1Q = 4
+| masteryQ = 2
+| tech = Millstone (technology)
+| tree = Farming
+| result = Seed oil
+| resultQ = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Faith = 1
+| Science = 2
+| GP = 10
+| BR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

@@ -1,0 +1,29 @@
+'''Zombies''' is a game system in [[Graveyard Keeper 2|''Graveyard Keeper 2'']]. They are unlocked after completing the [[Quests|quest]] "[[Sweet Dreams]]". Managing zombies is a major part of the game, as they interact with almost every other game system. 
+
+== Get a zombie ==
+After completing the quest "[[Sweet Dreams]]", the [[Plague Doctor]] gives the [[Keeper]] two zombies. To obtain more zombies, the Keeper must unlock the [[Resurrection Lab]] in the [[Morgue]] and repair the [[Resurrection Device]]. Resurrection can only be performed during '''Envy'''. The Resurrection Device cannot be interacted with at any other time.
+
+To obtain a zombie, the Keeper must place a corpse in the [[Resurrection Table]]. The corpse must have all of its organs and must not have any Surgeon’s Error. Once the corpse is placed, a Zombie Collar is selected and the {{Item|Reanimation Liquid}} is consumed. The corpse then remains prepared until the Resurrection Device can be used. The Resurrection Device can be used once per week, but it can activate multiple Resurrection Tables at the same time.
+
+The number of {{Skull|Red}} determines which collar must be used:
+
+* '''0–5:''' {{Item|Bronze Zombie Collar}}
+* '''0-10:''' {{Item|Golden Zombie Collar}}
+* '''0-99:''' {{Item|Steel Zombie Collar}}
+
+== Perks ==
+Like the Keeper, zombies earn points while working. These points can be spent in a skill tree, similar to the Keeper's [[Inspirations|Inspiration]] tree, to unlock perks. The number of perks a zombie can equip is equal to its number of {{Skull|Red}}.
+
+Zombie perks are divided into the same trees as [[Masteries]]:
+
+* {{Mastery|Orange}} and {{Mastery|Red}} uses {{Tech|Red}} points.
+* {{Mastery|Green}} uses {{Tech|Green}} points.
+* {{Mastery|Blue}} and {{Mastery|Violet}} uses {{Tech|Blue}} points.
+
+== Working ==
+Zombies can be assigned to most workstations, but they need the corresponding Mastery to work at each one. Mastery can be increased by equipping [[tools]] or upgrading their perks.
+
+For a zombie to work at a workstation, the required materials must be supplied to it by another zombie assigned to a [[Zombie Supplier Station]]. The same zombie is also responsible for collecting the finished products and placing them in a chest.
+
+== Navigation ==
+{{Game System navbox}}

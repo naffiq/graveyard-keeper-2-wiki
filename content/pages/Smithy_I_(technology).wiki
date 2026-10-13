@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Metallurgy
+| RP = 75
+| BP = 20
+| pre = [[Iron Smithing]]
+}}
+'''Smithy I''' is a [[technology]] in the [[Metallurgy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Brick}}
+|{{Item|Glass}}
+|{{Blueprint|Smithy I}}
+|}
+
+== Next technologies ==
+*[[Smithy: Hammer (technology)|Smithy: Hammer]]
+
+== Navigation ==
+{{Metallurgy navbox}}

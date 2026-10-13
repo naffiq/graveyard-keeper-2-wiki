@@ -1,0 +1,39 @@
+[[File:Days.png|right]]
+'''Days''' in ''Graveyard Keeper 2'' are represented by their own icons, each associated with one of the seven deadly sins. Each day lasts 7.5 minutes, and a full week lasts 45 minutes. The current day can be seen at any time in the upper-left corner of the screen.
+
+Each day has an associated activity, along with a characteristic sound and background. In order, the days are:
+
+{| class="fandom-table"
+!Icon
+!Name
+!Activity
+|-
+|{{Icon|Gluttony|size=30}}
+|Gluttony
+|[[PR Machine]]
+|-
+|{{Icon|Sloth|size=30}}
+|Sloth
+|[[Town Battles]]
+|-
+|{{Icon|Lust|size=30}}
+|Lust
+|{{Item|Green Scroll}} for [[Linda]]<br />{{Item|Keys for Looters}} for [[Davy the Dagger]]
+|-
+|{{Icon|Envy|size=30}}
+|Envy
+|Create new [[zombies]] in the [[Resurrection Lab]]<br />New {{Item|Blue Crystal}}s in the [[Swamp]]
+|-
+|{{Icon|Pride|size=30}}
+|Pride
+|Town orders in the [[Town Warehouse]]
+|-
+|{{Icon|Wrath|size=30}}
+|Wrath
+|Sermons in the [[Church]]
+|}
+
+== Navigation ==
+{{Game System navbox}}
+
+[[pt-br:Dias]]

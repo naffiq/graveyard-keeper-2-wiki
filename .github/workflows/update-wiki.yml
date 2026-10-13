@@ -43,8 +43,8 @@ jobs:
         uses: actions/cache/restore@v4
         with:
           path: site
-          key: wiki-site-${{ github.run_id }}
-          restore-keys: wiki-site-
+          key: gk2-fandom-site-${{ github.run_id }}
+          restore-keys: gk2-fandom-site-
 
       # Fandom rate-limits GitHub runner IPs after ~850 requests. This wiki is
       # small enough to fetch in full; if it outgrows that, upload a cache made
@@ -69,7 +69,7 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: site
-          key: wiki-site-${{ github.run_id }}
+          key: gk2-fandom-site-${{ github.run_id }}
 
       - name: Commit snapshot
         id: snapshot

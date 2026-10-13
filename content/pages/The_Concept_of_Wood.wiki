@@ -1,0 +1,19 @@
+{{Tech infobox
+| tree = Building
+}}
+'''The Concept of Wood''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|[[File:Board.png|link=Board]]
+|[[File:Short Log.png|link=Short Log]]
+|[[File:Sawhorse (blueprint).png|link=Sawhorse]]
+|}
+
+== Next technologies ==
+* [[Chopping]]
+* [[Woodworking I]]
+* [[The Concept of Stone]]
+
+== Navigation ==
+{{Building navbox}}

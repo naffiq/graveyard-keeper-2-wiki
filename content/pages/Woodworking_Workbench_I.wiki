@@ -1,0 +1,25 @@
+{{Blueprint infobox
+| location = Yard
+| vertical = 4
+| horizontal = 6
+| technology = Woodworking I
+| crafted = {{Item|Board|8}}<br/>{{Item|Bronze Nails|4}}
+}}
+'''Woodworking Workbench I''' is a [[workstation]] that can be build in the [[Yard]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Yard
+| item1 = Board
+| item1Q = 8
+| item2 = Bronze Nails
+| item2Q = 4
+| tree = Building
+| tech = Woodworking I
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

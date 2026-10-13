@@ -1,0 +1,22 @@
+{{Perk infobox
+| tree = Anatomy
+| desc = The hottest job in town. Receive more rewards for cremating corpses.
+| pre =  Anatomy mastery +1<br/>[[Grave Builder]]
+}}
+'''Cremator''' is a [[Keeper]] [[perk]] available in the [[Inspirations/Anatomy|Anatomy talent tree]].
+
+== Prerequisites ==
+*{{Mastery|Violet}} Anatomy mastery +1
+*{{Item|Grave Builder}}
+
+== Effects ==
+Doubles the amount of materials obtained from cremating a corpse.<noinclude>
+*{{Blueprint|Crematorium I|text=no}} [[Crematorium I]]
+**{{Item|Ash}}: 10 (previously 5)
+**{{Item|Salt}}: 2 (previously 1)
+*{{Blueprint|Crematorium II|text=no}} [[Crematorium II]]
+**{{Item|Ash}}: 14 (previously 7)
+**{{Item|Salt}}: 4 (previously 2)</noinclude>
+
+== Navigation ==
+{{Perk navbox}}

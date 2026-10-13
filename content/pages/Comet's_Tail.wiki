@@ -1,0 +1,30 @@
+{{Item infobox
+| type = Alchemy
+| stack = 20
+| buy_from = [[Gunter]]<br/>[[Apothecary]]
+| science = 10
+| BP = 30
+}}
+
+'''Comet's Tail''' is a crafting material.
+
+== Obtaining ==
+
+* Buy from:
+** [[Gunter]]
+** [[Apothecary]]
+
+== Study ==
+{{Study
+| Science = 10
+| BP = 30
+}}
+
+== Uses ==
+{{Uses}}
+
+=== Quests ===
+1 Comet's Tail, along with {{Item|Dream Dust}} and {{Item|Tooth}} are need for [[Chasing Fairy Lights]].
+
+== Navigation ==
+{{Item navbox}}

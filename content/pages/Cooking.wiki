@@ -1,0 +1,13 @@
+'''Cooking''' is one of the [[Technologies|Tech Trees]]. Unlike the other Tech Trees, its technologies cannot be unlocked using points. Instead, they are obtained as quest rewards or purchased from characters.
+
+== Technologies ==
+{{#dpl:
+| category     = Cooking Technologies
+| include      = {Tech infobox}::
+| table        = class="wikitable sortable" style="text-align:center",-, Technology, Unlocks
+| tablerow     = [[File:%PAGE%.png|link=%PAGE%]],²{#lsth:%PAGE%{{!}}Unlocks}²
+}}
+
+== Navigation ==
+{{Tech navbox}}
+[[Category:Tech Trees]]

@@ -1,0 +1,58 @@
+{{Item infobox
+| type = Bronze
+| stack = 30
+| crafting = Furnace I
+| science = 2
+| faith = 1
+| RP = 10
+| BP = 15
+| technology = Bronze Melting
+| crafted = {{Item|Bronze Scrap|3}}<br/>{{Item|Fuel|20}}
+}}
+'''Bronze Ingot''' is a crafting material.
+
+== Obtaining ==
+* Buy from [[Smithy]].
+*{{Item|Fireman}} adds +1 to the result (''both recipes''):
+{{Recipe
+| blueprint = Furnace I
+| item1 = Bronze Scrap
+| mastery = Red
+| item1Q = 3
+| item2 = Fuel
+| item2Q = 20
+| resultQ = 2
+| masteryQ = 1
+| tech = Bronze Melting
+| tree = Metallurgy
+}}
+{{Recipe
+| blueprint = Furnace I
+| item1 = Copper Nugget
+| mastery = Red
+| item1Q = 3
+| item2 = Tin
+| item2Q = 1
+| resultQ = 4
+| masteryQ = 1
+| tech = Bronze Forge
+| tree = Metallurgy
+| item3 = Fuel
+| item3Q = 20
+}}
+
+== Study and alchemy ==
+{{Study
+| Faith = 1
+| Science = 2
+| RP = 10
+| BP = 15
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Lingote de Bronze]]

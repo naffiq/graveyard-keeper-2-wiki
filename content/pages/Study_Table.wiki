@@ -1,0 +1,7 @@
+{{Workstation infobox
+| location = Alchemy Lab
+}}
+
+'''Study Table''' is a workstation located in the [[Alchemy Lab]]. At this station, Keeper can study items to obtain {{Tech|Red}}, {{Tech|Green}}, {{Tech|Blue}}, or combination of these, in exchange for [[File:Faith_(icon).png|link=Faith]] [[faith]], [[File:Science_(icon).png|link=Science]] [[science]], or both.
+
+For a list of the points and runes for each item, see the [[Study/Items|complete list]].

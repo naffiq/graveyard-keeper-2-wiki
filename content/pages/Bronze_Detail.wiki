@@ -1,0 +1,40 @@
+{{Item infobox
+| type = Bronze
+| stack = 30
+| science = 3
+| RP = 20
+| BP = 15
+| crafting = Wooden Anvil
+| crafted = {{Item|Bronze Ingot}}
+| technology = Bronze Craft
+}}
+'''Bronze Detail''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Wooden Anvil
+| extension = Hardening Bucket
+| item1 = Bronze Ingot
+| mastery = Red
+| masteryQ = 2
+| item1Q = 1
+| result = Bronze Detail
+| resultQ = 6
+| tree = Metallurgy
+| tech = Bronze Craft
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 20
+| BP = 15
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Detalhes de Bronze]]

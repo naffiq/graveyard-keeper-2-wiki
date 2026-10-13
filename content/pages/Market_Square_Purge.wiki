@@ -1,0 +1,2 @@
+{{Battles|Battle_Name=Market Square Purge|squads=2|defense_power=22|rewards=6x[[Zombie Goo]], 4x[[Town Gratitude]]}}
+[[Category:Battles]]

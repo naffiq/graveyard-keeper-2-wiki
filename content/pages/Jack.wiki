@@ -1,5 +1,0 @@
-Jack is a slightly arrogant Builder that lost his workshop in the city.
-
-He is the source of many a technology
-[[Category:Merchant]]
-[[Category:Npc]]

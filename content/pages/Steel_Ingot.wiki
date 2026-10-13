@@ -1,0 +1,25 @@
+{{Item infobox
+| type = Steel
+| stack = 30
+| science = 3
+| RP = 20
+| BP = 25
+}}
+
+'''Steel Ingot''' is a crafting material.
+
+== Obtaining ==
+* Sold by [[Bishop]] for {{Icon|Silver Coin|1}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 20
+| BP = 25
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

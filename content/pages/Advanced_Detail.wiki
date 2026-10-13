@@ -1,0 +1,42 @@
+{{Item infobox
+| type = Iron
+| stack = 30
+| science = 5
+| crafting = Iron Anvil
+| crafted = {{Item|Bronze Detail|2}}<br/>{{Item|Iron Detail|2}}
+| technology = Iron Products
+| RP = 50
+| BP = 20
+}}
+'''Advanced Detail''' is a crafting material.
+
+== Obtaining ==
+*{{Item|Engineer}} adds +1 to the result:
+{{Recipe
+| blueprint = Iron Anvil
+| item1 = Bronze Detail
+| item1Q = 2
+| item2 = Iron Detail
+| item2Q = 2
+| result = Advanced Detail
+| resultQ = 3
+| mastery = Red
+| masteryQ = 7
+| tech = Iron Products
+| tree = Metallurgy
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| RP = 50
+| BP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Detalhe Avançado]]

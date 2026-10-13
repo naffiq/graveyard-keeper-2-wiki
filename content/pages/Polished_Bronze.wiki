@@ -1,0 +1,43 @@
+{{Item infobox
+| type = Bronze
+| stack = 30
+| science = 3
+| RP = 30
+| BP = 20
+| crafting = Woodworking Workbench I
+| technology = Bronze Polishing
+| crafted = {{Item|Bronze Detail|2}}<br/>{{Item|Sand|2}}<br/>{{Item|Melted Fat|1}}
+}}
+'''Polished Bronze''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Woodworking Workbench I
+| item1 = Bronze Detail
+| mastery = Orange
+| item1Q = 2
+| masteryQ = 5
+| resultQ = 2
+| tree = Building
+| tech = Bronze Polishing
+| result = Polished Bronze
+| item2 = Sand
+| item2Q = 2
+| item3 = Melted Fat
+| item3Q = 1
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 30
+| BP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Bronze Polido]]

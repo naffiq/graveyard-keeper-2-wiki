@@ -1,0 +1,31 @@
+{{Item infobox
+| type = Quest
+| stack = 1
+| crafting = Wooden Anvil
+| crafted = {{Item|Blood|1}}<br/>{{Item|Bronze Ingot|1}}
+}}
+
+'''Magic bell''' is a quest item.
+
+The recipe is obtained during the "[[Jack in a Boat]]" [[quest]]. Once the item is crafted, the recipe is permanently consumed and disappears.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Wooden Anvil
+| item1 = Blood
+| item1Q = 1
+| item2 = Bronze Ingot
+| item2Q = 1
+| mastery = Red
+| masteryQ = 3
+| ticks = 5
+| energy = 3
+| red = 5
+}}
+
+== Study and alchemy ==
+
+* This item cannot be studied.
+
+== Navigation ==
+{{Item navbox}}

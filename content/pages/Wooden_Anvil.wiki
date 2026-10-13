@@ -1,0 +1,27 @@
+{{Blueprint infobox
+| location = Yard
+| vertical = 2
+| horizontal = 2
+| technology = Bronze Works
+| crafted = {{Item|Short Log|1}}<br/>{{Item|Stone|1}}
+}}
+
+'''Wooden Anvil''' is a [[workstation]] that can be build in the [[Yard]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Yard
+| item1 = Short Log
+| item1Q = 1
+| item2 = Stone
+| item2Q = 1
+| tree = Metallurgy
+| tech = Bronze Works
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}
+[[pt-br:Bigorna de Madeira]]

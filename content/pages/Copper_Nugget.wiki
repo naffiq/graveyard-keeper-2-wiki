@@ -1,0 +1,28 @@
+{{Item infobox
+| type = Bronze
+| stack = 50
+| science = 2
+| RP = 20
+| BP = 10
+| RR = 2
+| GR = 1
+}}
+'''Copper Nugget''' is a crafting material.
+
+== Obtaining ==
+* Mining the copper vein, in the [[Inquisition Base]] (needs {{Mastery|Red|2}}).
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| RP = 50
+| BP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Pepita de Cobre]]

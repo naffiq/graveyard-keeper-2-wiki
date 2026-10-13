@@ -1,0 +1,2 @@
+{{Battles|Battle_Name=Break Through to the Port|squads=1|defense_power=12|rewards=[[Defender's Emblem]], 6x[[Zombie goo]], 4x[[Town Gratitude]]}}
+[[Category:Battles]]

@@ -1,0 +1,30 @@
+{{Blueprint infobox
+| location = Church
+| technology = Church Music I
+| crafted = {{Item|Oiled Plank|4}}<br/>{{Item|Bronze Detail|2}}<br/>{{Item|Music Notes|4}}
+}}
+'''Choir''' is a blueprint that can be build in the [[Church]]. It can only be built once and has a fixed position to the right of the altar. Once selected, it is built and the blueprint disappears.
+
+The Choir provides {{Icon|Church Quality|+1}}, and each [[zombie]] assigned to it provides {{Icon|Church Quality|+1}}. Zombies can have certain perks in the {{Mastery|Blue}} tree that further increase {{Icon|Church Quality}} (the values do not stack; they replace each other):
+
+* {{Item|Novice Musician}}: {{Icon|Church Quality|+2}}
+* {{Item|Skilled Musician}}: {{Icon|Church Quality|+4}}
+* {{Item|Maestro}}: {{Icon|Church Quality|+7}}
+
+Having a functional Choir is required to progress through the [[quest]] "[[The Nun Also Reads]]".
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Church
+| item1 = Oiled Plank
+| item1Q = 4
+| item2 = Bronze Detail
+| item2Q = 2
+| item3 = Music Notes
+| item3Q = 4
+| tree = Theology
+| tech = Church Music I
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

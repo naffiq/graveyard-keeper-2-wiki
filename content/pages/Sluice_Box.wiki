@@ -1,0 +1,25 @@
+{{Blueprint infobox
+| location = Yard
+| vertical = 4
+| horizontal = 2
+| technology = Bronze Forge
+| crafted = {{Item|Board|4}}<br/>{{Item|Bronze Nails|4}}
+}}
+'''Sluice Box''' is a [[workstation]] that can be build in the [[Yard]].
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Yard
+| item1 = Board
+| item1Q = 4
+| item2 = Bronze Nails
+| item2Q = 4
+| tree = Metallurgy
+| tech = Bronze Forge
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}

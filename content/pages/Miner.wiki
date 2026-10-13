@@ -1,0 +1,16 @@
+{{Perk infobox
+| tree = Metallurgy
+| desc = You're a true miner. You sometimes get extra ore when mining. You might even find a gem... or not.
+| pre = Red mastery +1
+}}
+
+'''Miner''' is a [[Keeper]] [[perk]] available in the [[Inspirations/Metallurgy|Metallurgy talent tree]].
+
+== Prerequisites ==
+*{{Mastery|Red}} Red mastery +1
+
+== Effects ==
++1 {{Item|Copper Nugget}} from the copper vein<br/>20% chance to get {{Item|Gem}} in the copper vein<br/>+1 {{Item|Iron Ore}} from a iron deposit
+
+== Navigation ==
+{{Perk navbox}}

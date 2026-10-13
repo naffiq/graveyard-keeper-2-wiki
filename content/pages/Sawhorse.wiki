@@ -1,0 +1,29 @@
+{{Workstation infobox
+| place = Yard
+}}
+'''Sawhorse''' is a workstation that can be build in the [[Yard]].
+
+== Building ==
+{| class="wikitable"
+! Materials
+|-
+| {{Item|Board|2}}<br/>{{Item|Stick|4}}
+|}
+
+== Recipes ==
+{| class="wikitable"
+!Item
+!Materials
+!Mastery
+|-
+| style="text-align:center" |{{Item|Board|4}}
+| {{Item|Log|1}}
+|{{Talent|Orange}} 1
+|-
+|{{Item|Short Log|2}}
+|{{Item|Log|1}}
+|{{Talent|Orange}} 1
+|}
+
+== Navigation ==
+{{Workstation navbox}}

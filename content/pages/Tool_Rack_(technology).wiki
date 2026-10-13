@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Building
+| RP = 35
+| pre = [[The Concept of Stone]]<br/>[[Woodworking I]]
+}}
+'''Tool Rack''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Blueprint|Tool Rack}}
+|{{Blueprint|Simple Chest}}
+|}
+
+== Next technologies ==
+* [[Zombie Assistant]]
+* [[Oiled wood]]
+* [[Stone Polishing]]
+
+== Navigation ==
+{{Building navbox}}

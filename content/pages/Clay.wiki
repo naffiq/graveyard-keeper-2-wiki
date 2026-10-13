@@ -1,0 +1,31 @@
+{{Item infobox
+| type = Clay
+| stack = 99
+| science = 1
+| RP = 5
+| RR = 1
+| faith = 1
+| GP = 5
+}}
+'''Clay''' is a crafting material.
+
+== Obtaining ==
+
+* Excavate from a clay pit (need any [[shovel]]).
+
+== Study and alchemy ==
+{{Study
+| Science = 1
+| RP = 5
+| Faith = 1
+| GP = 5
+| RR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Argila]]

@@ -1,0 +1,25 @@
+{{Item infobox
+| type = Crop
+| stack = 99
+| science = 1
+| GR = 1
+| GP = 10
+}}
+
+'''Leaf''' is a crafting material.
+
+== Obtaining ==
+* Harvesting any crop grants 2 (with {{Item|Compost Chemist}}, 4)
+
+== Study and alchemy ==
+{{Study
+| Science = 1
+| GP = 10
+| GR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

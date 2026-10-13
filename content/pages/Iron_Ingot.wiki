@@ -1,0 +1,54 @@
+{{Item infobox
+| type = Iron
+| stack = 30
+| crafting = Furnace II
+| crafted = {{Item|Iron Ore|3}}<br/>{{Item|Fuel|30}}
+| technology = Iron Forge
+| science = 2
+| RP = 10
+| BP = 20
+}}
+
+'''Iron Ingot''' is a crafting material.
+
+== Obtaining ==
+* {{Item|Fireman}} adds +1 to the result (''only to this recipe''):
+{{Recipe
+| blueprint = Furnace II
+| result = Iron Ingot
+| resultQ = 3
+| item1 = Iron Ore
+| item1Q = 3
+| item2 = Fuel
+| item2Q = 30
+| mastery = Red
+| masteryQ = 5
+| tech = Iron Forge
+| tree = Metallurgy
+| ticks = 12
+| red = 3
+}}{{Recipe
+| blueprint = Smithy I
+| result = Iron Ingot
+| item1 = Iron Ore
+| item2 = Coal
+| mastery = Red
+| masteryQ = 2
+| tech = Smithy: Hammer (technology)
+| tree = Metallurgy
+| ticks = 8
+| red = 1
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 2
+| RP = 10
+| BP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

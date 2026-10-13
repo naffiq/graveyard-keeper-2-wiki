@@ -1,0 +1,58 @@
+{{Item infobox
+| type = Body part
+| stack = 20
+| science = 5
+| BP = 10
+| RP = 10
+}}
+
+'''Bones''' is as body part.
+
+== Variants ==
+These are the variants that can be obtained by default. [[Keeper]] can upgrade any body part using an [[Organ Improver]] at the [[Formulation Bench]].
+{| class="fandom-table"
+!Quality
+!{{Skull|Red}}
+!{{Skull|White}}
+!{{Mastery|Violet}}
+|-
+| rowspan="2" |Bronze
+|0
+|0
+| rowspan="2" |2
+|-
+|0
+|1
+|-
+| rowspan="2" |Silver
+|1
+|1
+| rowspan="2" |4
+|-
+|2
+|1
+|-
+| rowspan="2" |Gold
+|1
+|3
+| rowspan="2" |7
+|-
+|3
+|1
+|}
+
+== Obtaining ==
+* Remove from [[corpses]] (requires [[Skin and Bones]])
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| BP = 10
+| RP = 10
+}}
+
+== Uses ==
+{{Uses|alchemy=yes}}
+
+== Navigation ==
+{{Item navbox}}

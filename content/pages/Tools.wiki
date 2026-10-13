@@ -1,0 +1,63 @@
+'''Tools''' are items that can be equipped by the [[Keeper]] and [[zombies]] to increase their [[mastery]].
+
+== List of tools ==
+{| class="fandom-table"
+!Bonus
+! colspan="2" |{{Mastery|Orange}}
+! colspan="2" |{{Mastery|Red}}
+! colspan="2" |{{Mastery|Green}}
+! colspan="2" |{{Mastery|Violet}}
+! colspan="2" |{{Mastery|Blue}}
+|-
+| +1
+|{{Icon|Rusty Axe|size=50}}
+|{{Icon|Rusty Pickaxe|size=50}}
+|{{Icon|Rusty Hammer|size=50}}
+|{{Icon|Bronze tools|size=50}}
+|{{Icon|Rusty Shovel|size=50}}
+|{{Icon|Basic Rod|size=50}}
+|{{Icon|Butcher's Kit|size=50}}
+|{{Icon|Starter Alchemist's Kit|size=50}}
+|{{Icon|Bronze Talisman|size=50}}
+|{{Icon|Primer|size=50}}
+|-
+| +2
+|{{Icon|Bronze Axe|size=50}}
+|{{Icon|Bronze Pickaxe|size=50}}
+|{{Icon|Bronze Hammer|size=50}}
+|{{Icon|Iron tools|size=50}}
+|{{Icon|Bronze Shovel|size=50}}
+|{{Icon|Amateur Rod|size=50}}
+|{{Icon|Surgeon's Kit|size=50}}
+|{{Icon|Alchemist's Kit|size=50}}
+|{{Icon|Silver Talisman|size=50}}
+|{{Icon|Dictionary|size=50}}
+|-
+| +4
+|{{Icon|Iron Axe|size=50}}
+|{{Icon|Iron Pickaxe|size=50}}
+|{{Icon|Iron Hammer|size=50}}
+|{{Icon|Steel tools|size=50}}
+|{{Icon|Iron Shovel|size=50}}
+|{{Icon|Advanced Rod|size=50}}
+|{{Icon|Master Surgeon's Kit|size=50}}
+|{{Icon|Good Alchemist's kit|size=50}}
+|{{Icon|Golden Talisman|size=50}}
+|{{Icon|Glossary|size=50}}
+|-
+| +6
+|{{Icon|Steel Axe|size=50}}
+|{{Icon|Steel Pickaxe|size=50}}
+|{{Icon|Steel Hammer|size=50}}
+|
+|{{Icon|Steel Shovel|size=50}}
+|{{Icon|Pro Rod|size=50}}
+|
+|
+|
+|
+|}
+
+== Navigation ==
+{{Game System navbox}}
+{{Tool navbox}}

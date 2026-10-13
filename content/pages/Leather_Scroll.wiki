@@ -1,0 +1,43 @@
+{{Item infobox
+| type = Writing
+| stack = 30
+| crafting = Writing Desk
+| crafted = {{Item|Skin}}
+| technology = Writing Basic
+| science = 3
+| BP = 10
+| GP = 10
+}}
+
+'''Leather Scroll''' is a crafting material.
+
+== Obtaining ==
+* Sold by [[Alchemist]]
+* {{Item|Paper maker}} adds +2 to the result:
+
+{{Recipe
+| blueprint = Writing Desk
+| resultQ = 4
+| item1 = Skin
+| mastery = Blue
+| masteryQ = 1
+| tech = Writing Basic
+| tree = Theology
+| ticks = 3
+| energy = 2
+| red = 1
+| blue = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| GP = 10
+| BP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

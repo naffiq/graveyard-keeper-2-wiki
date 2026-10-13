@@ -1,0 +1,28 @@
+{{Item infobox
+| type = Alchemy
+| stack = 50
+| science = 2
+| faith = 2
+| BP = 20
+| BR = 2
+}}
+
+'''Night flower''' is an alchemy material.
+
+== Obtaining ==
+
+* Gathered in the [[swamp]].
+
+== Study and alchemy ==
+{{Study
+| Faith = 2
+| Science = 2
+| BP = 20
+| BR = 2
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

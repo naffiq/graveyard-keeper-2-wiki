@@ -1,0 +1,19 @@
+{{Tech infobox
+| tree = Metallurgy
+| RP = 30
+| pre = [[Bronze Forge]]
+}}
+'''Bronze Polishing''' is a [[Technologies|technology]] in the [[Metallurgy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Polished Bronze}}
+|{{Item|Bronze tools}}
+|{{Item|Copper Trinkets}}
+|}
+
+== Next technologies ==
+*[[Iron Forge]]
+
+== Navigation ==
+{{Metallurgy navbox}}

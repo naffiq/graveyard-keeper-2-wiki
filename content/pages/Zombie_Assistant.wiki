@@ -1,0 +1,15 @@
+{{Tech infobox
+| tree = Building
+| RP = 35
+| pre = [[Tool Rack (technology)|Tool Rack]]
+| GP = 5
+}}
+'''Zombie Assistant''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Blueprint|Zombie Supplier Station}}
+|}
+
+== Navigation ==
+{{Building navbox}}

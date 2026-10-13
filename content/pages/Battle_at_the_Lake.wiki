@@ -1,0 +1,2 @@
+{{Battles|Battle_Name=Battle at the Lake|squads=3|defense_power=64|rewards=10 x [[Zombie Goo]], 16 x [[Town Gratitude]]}}
+[[Category:Battles]]

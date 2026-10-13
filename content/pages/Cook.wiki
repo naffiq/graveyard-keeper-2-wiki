@@ -1,0 +1,35 @@
+{{Perk infobox
+| tree = Farming
+| desc = It’s not haute cuisine, but there’s plenty of it. You create extra portions of basic dishes.
+| pre = Green mastery +1
+}}
+'''Cook''' is a [[Keeper]] [[perk]] available in the [[Inspirations/Farming|Farming talent tree]].
+
+== Prerequisites ==
+*{{Mastery|Green}} Green mastery +1
+
+== Effects ==
++2 to most basic dishes<noinclude>
+
+{| class="fandom-table"
+!Food
+!Results
+|-
+|{{Item|Baked apple}}
+|5 to 7
+|-
+|{{Item|Berry Pie}}<br/>{{Item|Bread}}<br/>{{Item|Burger}}<br/>{{Item|Grated beets}}<br/>{{Item|Sandwich}}
+|4 to 6
+|-
+|{{Item|Baked mushrooms}}<br/>{{Item|Berry smoothie}}<br/>{{Item|Yogurt}}
+|3 to 5
+|-
+|{{Item|Bowl of sauerkraut}}<br/>{{Item|Vegetable salad}}
+|2 to 4
+|-
+|{{Item|Beet slices}}
+|2 to 3
+|}</noinclude>
+
+== Navigation ==
+{{Perk navbox}}

@@ -1,0 +1,11 @@
+'''Study''' is a game system in ''[[Graveyard Keeper 2]]'' that allows the player to study various items at a [[Study Table]]. Study needs [[File:Faith (icon).png|link=Faith]] [[faith]], [[File:Science (icon).png|link=Science]] [[science]], or both. Keeper unlocks study after complete the [[quest]] "[[Dungeons and... that's it, probably.]]".
+
+After studying an item, the Keeper receives a certain amount of {{Tech|Red}}, {{Tech|Green}}, {{Tech|Blue}}, or combination of these. Some items have associated runes, which are revealed after studying the item.
+
+In the current demo, only a limited number of items can be studied, as access to additional [[File:Science (icon).png|link=Science]] is not available.
+
+== Items ==
+{{#lsth:Study/Items}}
+
+== Navigation ==
+{{Game System navbox}}

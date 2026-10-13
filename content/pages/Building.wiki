@@ -1,0 +1,13 @@
+'''Building''' is one of the [[Technologies|Tech Trees]]. It focuses on woodworking, stone, and clay. Its associated [[Mastery]] is {{Mastery|Orange}}.
+
+== Technologies ==
+{{#dpl:
+| category     = Building Technologies
+| include      = {Tech infobox}::pre:RP:GP:BP:
+| table        = class="wikitable sortable" style="text-align:center",-, Technology, Prerequisite(s), {{Tech|Red}}, {{Tech|Green}}, {{Tech|Blue}}, Unlocks
+| tablerow     = [[File:%PAGE%.png|link=%PAGE%]],%%,%%,%%,%%,²{#lsth:%PAGE%{{!}}Unlocks}²
+}}
+
+== Navigation ==
+{{Tech navbox}}
+[[Category:Tech Trees]]

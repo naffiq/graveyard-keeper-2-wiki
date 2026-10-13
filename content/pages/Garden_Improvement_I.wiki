@@ -1,0 +1,21 @@
+{{Tech infobox
+| tree = Farming
+| GP = 30
+| pre = [[Fertilizers I]]
+}}
+'''Garden Improvement I''' is a [[Technologies|technology]] in the [[Farming]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Blueprint|Garden Upgrade I}}
+|{{Blueprint|Garden Well Upgrade}}
+|}
+
+== Next technologies ==
+*[[Flax Thread (technology)]]
+*[[Beekeeping]]
+*[[Fishing II]]
+*[[Zombie Gardening]]
+
+== Navigation ==
+{{Farming navbox}}

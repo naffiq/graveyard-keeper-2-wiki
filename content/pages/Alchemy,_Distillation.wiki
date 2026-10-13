@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Anatomy and Alchemy
+| RP = 5
+| pre = [[Alchemy, Basic]]
+| GP = 5
+}}
+'''Alchemy, Distillation''' is a [[Technologies|technology]] in the [[Anatomy and Alchemy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Melted Fat}}
+|{{Item|Starter Alchemist's Kit}}
+|{{Blueprint|Distillation Cube}}
+|}
+
+== Next technologies ==
+* [[Reanimation]]
+
+== Navigation ==
+{{Anatomy and Alchemy navbox}}

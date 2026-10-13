@@ -1,0 +1,35 @@
+{{Item infobox
+| type = Alchemy
+| stack = 20
+| science = 5
+| BP = 50
+}}
+'''Dream Dust''' is an alchemy resource.
+
+== Obtaining ==
+
+* Buy from [[Alchemist]].
+{{Recipe/Alchemy
+| green = 1
+| blue = 1
+}}
+
+;Recommended Recipes
+*{{Item|Water}} + {{Item|Blood}}
+*{{Item|Peat}}
+*{{Item|Ash}}
+
+== Study ==
+{{Study
+| Science = 5
+| BP = 50
+}}
+
+== Uses ==
+{{Uses}}
+
+=== Quests related ===
+* [[Sweet Dreams]] (1 need)
+
+== Navigation ==
+{{Item navbox}}

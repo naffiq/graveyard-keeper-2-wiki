@@ -1,0 +1,17 @@
+{{Quest infobox
+| character = Jack
+| desc = Jack needs wood to build a boat. He's staying in Twin's Land.
+}}
+
+'''Jack in a Boat''' is a [[Quests|quest]] from [[Jack]].
+
+== Requirements ==
+* {{Item|Wooden Plank|5}} (consumed)
+* {{Item|Bronze Detail|5}} (consumed)
+* {{Item|Reputation|10}}
+
+== Rewards ==
+* {{Item|Blacksmith's Clothes}}
+
+== Navigation ==
+{{Quest navbox}}

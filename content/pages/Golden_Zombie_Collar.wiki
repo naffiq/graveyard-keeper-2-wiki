@@ -1,0 +1,40 @@
+{{Item infobox
+| type = Zombie
+| stack = 10
+| science = 10
+| GP = 20
+| BP = 30
+| crafted = {{Item|Golden ingot}}<br/>{{Item|Blue Crystal}}<br/>{{Item|Faith|5}}
+| crafting = Jewelry Table
+| technology = Reanimation II
+}}
+
+'''Golden Zombie Collar''' is a zombie collar used to [[Resurrection Lab|resurrect]] [[zombies]] with up to 10 {{Skull|Red}}. It can later be replaced with a better collar.
+
+== Obtaining ==
+* Sold by [[Jeweler]].
+{{Recipe
+| blueprint = Jewelry Table
+| item1 = Golden ingot
+| mastery = Red
+| item2 = Blue Crystal
+| item3 = Faith
+| item3Q = 5
+| masteryQ = 8
+| tech = Reanimation II
+| tree = Anatomy and Alchemy
+| ticks = 12
+| energy = 3
+| red = 1
+| blue = 2
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| GP = 20
+| BP = 30
+}}
+
+== Navigation ==
+{{Item navbox}}

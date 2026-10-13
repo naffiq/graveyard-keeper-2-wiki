@@ -1,0 +1,65 @@
+{{Item infobox
+| type = Body part
+| stack = 20
+| science = 3
+| BP = 20
+| faith = 3
+| GP = 10
+| BR = 2
+| RR = 1
+}}
+'''Heart''' is as body part.
+
+== Variants ==
+These are the variants that can be obtained by default. [[Keeper]] can upgrade any body part using an [[Organ Improver]] at the [[Formulation Bench]].
+{| class="fandom-table"
+!Quality
+!{{Skull|Red}}
+!{{Skull|White}}
+!{{Mastery|Violet}}
+|-
+| rowspan="2" |Bronze
+|0
+|1
+| rowspan="2" |5
+|-
+|1
+|1
+|-
+| rowspan="2" |Silver
+|1
+|2
+| rowspan="2" |9
+|-
+|2
+|2
+|-
+| rowspan="2" |Gold
+|0
+|3
+| rowspan="2" |13
+|-
+|3
+|1
+|}
+
+== Obtaining ==
+* Remove from [[corpses]] (requires [[Autopsy, Advanced]])
+
+== Study and alchemy ==
+
+* Only the gold variant has runes.
+{{Study
+| Science = 3
+| BP = 20
+| Faith = 3
+| GP = 10
+| BR = 2
+| RR = 1
+}}
+
+== Uses ==
+{{Uses|alchemy=yes}}
+
+== Navigation ==
+{{Item navbox}}

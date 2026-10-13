@@ -1,7 +1,0 @@
-Januarius is the innkeeper, his brother [[Junny|Jully]] can be summond to the counter in the inn by talking to him.
-
-Januarius main feature is that he is the only one to buy Burial certificates.
-
-he is also a good merchant to supply alcohol in early game
-[[Category:Merchant]]
-[[Category:Npc]]

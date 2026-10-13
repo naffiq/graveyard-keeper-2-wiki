@@ -1,6 +1,6 @@
 # Graveyard Keeper 2 Wiki — offline PWA
 
-Offline copy of <https://graveyardkeeper2.fandom.com> as a static site and installable PWA,
+Offline copy of <https://graveyard-keeper-2.fandom.com> as a static site and installable PWA,
 with full-text search and a crafting cart that breaks builds down to raw materials.
 
 **Live:** <https://naffiq.github.io/graveyard-keeper-2-wiki/>
@@ -21,7 +21,7 @@ offline download) needs http(s); opening `site/index.html` as a file works witho
 | file | what |
 |---|---|
 | `scrape.py` | fetches pages/wikitext/images via the MediaWiki API, writes `site/`; site constants at the top |
-| `recipes.py` | parses recipe tables — GK2 "Material / Quantity" tables (plus the GK1 formats) |
+| `recipes.py` | parses `{{Recipe}}` / `{{Recipe/Blueprint}}` templates (plus plain tables as a fallback) |
 | `search.js` | header search: titles + lazily loaded full-text index |
 | `app.js` | cart storage, “Add to cart” buttons, service worker registration |
 | `cart.js` | cart page: expands recipes to raw materials and ordered crafting steps |
@@ -44,7 +44,7 @@ cache (`gk2-wiki-*`) and cart storage key (`gk2-cart`) and never touches the oth
 
 ## License
 
-Wiki text and images are from the [Graveyard Keeper 2 Fandom wiki](https://graveyardkeeper2.fandom.com)
+Wiki text and images are from the [Graveyard Keeper 2 Fandom wiki](https://graveyard-keeper-2.fandom.com)
 under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); each page links back to its
 original. Logo/icon from the game's Steam page; game assets belong to Lazy Bear Games / tinyBuild.
 This is an unofficial fan copy.

@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Building
+| RP = 35
+| GP = 10
+| pre = [[Oiled wood]]<br/>{{Icon|Reputation|40}} with [[Jack]]
+}}
+'''Circular Saw''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Wooden beam}}
+|{{Item|Oiled Beam}}
+|{{Blueprint|Circular Saw}}
+|}
+
+== Next technologies ==
+*[[Zombie Lumberjack]]
+
+== Navigation ==
+{{Building navbox}}

@@ -1,0 +1,21 @@
+{{Location infobox
+| connects = [[Graveyard]]
+| area = Inquisition Base
+}}
+
+The '''church''' is a location found in the [[Graveyard]]. It remains locked until [[Nun]] appears.
+
+== Sermon ==
+Every {{Icon|Wrath|size=20}}, the [[Keeper]] can hold a sermon at the Church. Sermons spend {{Icon|Happiness|size=20}} and require {{Icon|Church Quality|size=15}}. The lower of the two determines how many parishioners attend. After every sermon, based on the parishioners, they left {{Item|Faith}} and money. 
+
+== Repairs ==
+After unlocking the Church, there are 4 blockages that must be cleared. Each blockage requires {{Item|Bronze Detail|1}}, {{Item|Board|1}}, and {{Mastery|Orange|2}} to be cleared.
+
+== Blueprint Desk ==
+'''{{Icon|Church Quality|size=15}} Church Quality''' can be increased by placing various decorations. 
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}
+
+[[pt-br:Igreja]]

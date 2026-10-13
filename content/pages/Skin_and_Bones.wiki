@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Anatomy and Alchemy
+| GP = 5
+| BP = 2
+| pre = [[Soft parts]]
+}}
+'''Skin and Bones''' is a [[Technologies|technology]] in the [[Anatomy and Alchemy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Skin}}
+|{{Item|Bones}}
+|{{Item|Butcher's Kit}}
+|}
+
+== Next technologies ==
+* [[Skull and Teeth]]
+
+== Navigation ==
+{{Anatomy and Alchemy navbox}}

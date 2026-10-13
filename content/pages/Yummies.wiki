@@ -1,0 +1,19 @@
+{{Quest infobox
+| desc = I should bring some yummies to the guards by the fire. They gather every night near the Hangman's House.
+| character = Village guards
+}}
+
+'''Yummies''' is a side quest.
+
+== Location ==
+<gallery>
+Yummies (map).png
+Yummies (location).png
+</gallery>
+== Requirements ==
+* {{Item|Berry Pie}}
+* {{Item|Beer|2}}
+
+== Rewards ==
+* {{Item|Town Gratitude|2}}
+* [[Technology]]: [[Soldier's food]]

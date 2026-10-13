@@ -1,0 +1,23 @@
+{{Tech infobox
+| tree = Metallurgy
+| RP = 50
+| pre = [[Iron Forge]]
+}}
+
+'''Iron Smithing''' is a [[technology]] in the [[Metallurgy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Bronze Gear}}
+|{{Item|Iron Nails}}
+|{{Blueprint|Iron Anvil}}
+|}
+
+== Next technologies ==
+*[[Zombie Digging]]
+*[[Iron Works]]
+*[[Zombie Mining]]
+*[[Smithy I (technology)|Smithy I]]
+
+== Navigation ==
+{{Metallurgy navbox}}

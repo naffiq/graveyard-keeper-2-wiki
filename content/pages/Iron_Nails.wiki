@@ -1,0 +1,38 @@
+{{Item infobox
+| type = Iron
+| stack = 99
+| science = 3
+| crafting = Iron Anvil
+| crafted = {{Item|Iron Ingot|1}}
+| technology = Iron Smithing
+| RP = 20
+| BP = 20
+}}
+
+'''Iron Nails''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Iron Anvil
+| item1 = Iron Ingot
+| mastery = Red
+| item1Q = 1
+| result = Iron Nails
+| resultQ = 12
+| masteryQ = 6
+| tech = Iron Smithing
+| tree = Metallurgy
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 20
+| BP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

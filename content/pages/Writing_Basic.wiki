@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Theology
+| RP = 5
+| GP = 5
+| pre = [[Soft parts]]
+}}
+'''Writing Basic''' is a [[Technologies|technology]] in the [[Theology]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Leather Scroll}}
+|{{Blueprint|Writing Desk}}
+|}
+
+== Next technologies ==
+* [[Writing Supplies]]
+* [[Religious Writing I]]
+
+== Navigation ==
+{{Theology navbox}}

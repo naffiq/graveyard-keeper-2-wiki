@@ -1,0 +1,24 @@
+{{Item infobox
+| type = Bronze
+| stack = 30
+| science = 2
+| RP = 10
+}}
+'''Bronze Scrap''' is a crafting material.
+
+== Obtaining ==
+* Remove old barrels (requires {{Mastery|Orange}})
+
+== Study and alchemy ==
+{{Study
+| Science = 2
+| RP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Sucata de Bronze]]

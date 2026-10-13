@@ -1,0 +1,38 @@
+{{Item infobox
+| type = Alchemy
+| stack = 50
+| crafting = Formulation Bench
+| science = 3
+| faith = 2
+| BP = 20
+| RR = 1
+| GR = 1
+| crafted = {{Item|Skull}}
+| technology = Anatomy and Alchemy
+}}
+
+'''Tooth''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Formulation Bench
+| item1 = Skull
+| mastery = Violet
+| tech = Skull and Teeth
+| tree = Anatomy and Alchemy
+}}
+
+== Study and alchemy ==
+{{Study
+| Faith = 2
+| Science = 3
+| BP = 20
+| RR = 1
+| GR = 1
+}}
+
+== Uses ==
+{{Uses|alchemy=yes}}
+
+== Navigation ==
+{{Item navbox}}

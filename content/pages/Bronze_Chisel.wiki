@@ -1,0 +1,37 @@
+{{Item infobox
+| type = Wood
+| stack = 30
+| science = 5
+| crafting = Woodworking Workbench II
+| crafted = {{Item|Bronze Detail|2}}<br/>{{Item|Stick|4}}
+| technology = Woodworking II
+| RP = 15
+}}
+'''Bronze Chisel''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Woodworking Workbench II
+| item1 = Bronze Detail
+| item1Q = 2
+| item2 = Stick
+| item2Q = 4
+| result = Bronze Chisel
+| resultQ = 4
+| mastery = Orange
+| masteryQ = 5
+| tech = Woodworking II
+| tree = Metallurgy
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| RP = 15
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

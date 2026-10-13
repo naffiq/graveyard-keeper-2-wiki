@@ -1,0 +1,22 @@
+{{Blueprint infobox
+| location = Garden
+| technology = Garden Improvement I
+| crafted = {{Item|Board|6}}<br/>{{Item|Bronze Nails|12}}
+}}
+'''Garden Well Upgrade''' is a blueprint that can be build in the [[Garden]]. It can only be built once.
+
+Once built, it upgrades the Garden Well. It now provides {{Item|Water|20}} instead of 10.
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Garden
+| item1 = Board
+| item1Q = 6
+| item2 = Bronze Nails
+| item2Q = 12
+| tree = Farming
+| tech = Garden Improvement I
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

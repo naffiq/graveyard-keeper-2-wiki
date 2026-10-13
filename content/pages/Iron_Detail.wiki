@@ -1,0 +1,42 @@
+{{Item infobox
+| type = Iron
+| stack = 30
+| crafting = Iron Anvil
+| crafted = {{Item|Iron Ingot|1}}
+| technology = Iron Works
+| science = 3
+| RP = 20
+| BP = 20
+}}
+
+'''Iron Detail''' is a crafting material.
+
+== Obtaining ==
+* Sold by [[Furniture Maker]] and [[Smithy]].
+* {{Item|Engineer}} adds +3 to the result:
+
+{{Recipe
+| blueprint = Iron Anvil
+| resultQ = 6
+| item1 = Iron Ingot
+| mastery = Red
+| masteryQ = 6
+| tech = Iron Works
+| tree = Metallurgy
+| ticks = 6
+| energy = 3
+| red = 3
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 20
+| BP = 20
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

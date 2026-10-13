@@ -1,0 +1,14 @@
+'''Technologies''' are a game system in ''[[Graveyard Keeper 2]]''. The [[Keeper]] can unlock new items and workstations in the Tech Tree by spending {{Tech|Red}}, {{Tech|Green}}, and {{Tech|Blue}} points, which can be obtained in various ways. Some technologies are hidden or require certain reputation with another [[Characters|character]].
+
+== Tech Tree ==
+Technologies are divided into several branches, each with its own unlock tree.
+
+*[[File:Building.png|40px|link=]] [[Building]]
+*[[File:Metallurgy.png|40px|link=]] [[Metallurgy]]
+*[[File:Farming.png|40px|link=]] [[Farming]]
+*[[File:Theology.png|40px|link=]] [[Theology]]
+*[[File:Anatomy and Alchemy.png|40px|link=]] [[Anatomy and Alchemy]]
+*[[File:Cooking.png|40px|link=]] [[Cooking]]
+
+== Navigation ==
+{{Game System navbox}}

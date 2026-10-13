@@ -1,0 +1,11 @@
+'''Happiness''' is a mechanic. Can be viewed anytime under the energy bar, with the icon {{Icon|Happiness|size=20}}. It is directly related to the [[Church]], as it determines the maximum number of attendees at a sermon. The maximum number depends on the {{Icon|Town Quality|size=20}}  Town Quality, which can be viewed at any time in the [[Town]].
+
+== Obtaining ==
+* {{Item|Town Gratitude}} gives {{Icon|Happiness|5}}
+* Selling items to traders.
+
+== Town Quality ==
+The [[Keeper]] can increase the {{Icon|Town Quality|size=20}} Town Quality by talking to [[Linda]] and exchanging {{Item|Green Scroll}}, which are obtained by repairing houses in the Town. 
+
+== Navigation ==
+{{Game System navbox}}

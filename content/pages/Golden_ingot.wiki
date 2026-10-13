@@ -1,0 +1,55 @@
+{{Item infobox
+| type = Gold
+| stack = 20
+| crafting = Furnace II
+| crafted = {{Item|Bronze Detail|2}}<br/>{{Item|Iron Detail|2}}
+| technology = Reanimation II
+| science = 3
+| RP = 20
+| GP = 10
+}}
+'''Golden ingot''' is a crafting material.
+
+== Obtaining ==
+*Buy from [[Jeweler]].
+*{{Item|Fireman}} adds +1 to the result (''only this recipe''):
+{{Recipe
+| blueprint = Furnace II
+| extension = Bellows
+| item1 = Golden nugget
+| item1Q = 3
+| item2 = Fuel
+| item2Q = 30
+| result = Golden ingot
+| resultQ = 2
+| mastery = Red
+| masteryQ = 4
+| tech = Reanimation II
+| tree = Anatomy and Alchemy
+}}
+{{Recipe
+| blueprint = Formulation Bench
+| item1 = Iron Ingot
+| mastery = Violet
+| item1Q = 1
+| item2 = Philosopher Stone
+| item2Q = 1
+| masteryQ = 8
+| tech = Alchemy, Advanced
+| tree = Anatomy and Alchemy
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 3
+| RP = 20
+| GP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[Lingote de Ouro]]

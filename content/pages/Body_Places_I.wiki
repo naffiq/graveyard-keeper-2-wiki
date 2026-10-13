@@ -1,0 +1,19 @@
+{{Tech infobox
+| GP = 5
+| RP = 5
+| tree = Anatomy and Alchemy
+| pre = [[Autopsy, Basic]]
+}}
+'''Body Places I''' is a [[Technologies|technology]] in the [[Anatomy and Alchemy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Ash}}
+|{{Blueprint|Crematorium I}}
+|}
+
+== Next technologies ==
+* [[Reanimation]]
+
+== Navigation ==
+{{Anatomy and Alchemy navbox}}

@@ -1,0 +1,21 @@
+{{Item infobox
+| type = Others
+| stack = 999
+| others = Church
+}}
+'''Faith''' is a resource that can be obtained in the [[church]].
+
+== Uses ==
+
+* Activate [[milestones]].
+* [[Study]] some items.
+* Level up [[inspirations]].
+* Complete some [[quests]].
+
+=== Recipes ===
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Fé]]

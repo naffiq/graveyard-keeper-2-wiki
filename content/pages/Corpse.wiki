@@ -1,0 +1,16 @@
+{{Item infobox
+| type = 
+| stack = 
+}}
+
+'''Corpse''' is a game system in ''[[Graveyard Keeper 2]]''. They are obtained from [[Donkey]].
+
+== Autopsies ==
+A corpse can be placed on an [[Autopsy Table]] in the [[morgue]]. From there, the corpse's {{Skull|Red}} and {{Skull|White}}, body parts, and other parts can be viewed if the corresponding [[Technologies|technology]] has been unlocked.
+
+A corpse left on the ground for to long turns into a pile of ash that needs to be cleaned up by the keeper. Piles of ash produces nothing when cleaned up, The piles of ash no longer count towards the [[Morgue|Morgue's]] corpse totals.
+
+* {{Skull|White}} determines the maximum [[File:Graveyard Quality.png|20px|link=Graveyard]] in the [[graveyard]].
+* {{Skull|Red}} determines the maxium
+
+[[pt-br:Corpos]]

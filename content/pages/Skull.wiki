@@ -1,0 +1,59 @@
+{{Item infobox
+| type = Body part
+| stack = 20
+| science = 5
+| RP = 10
+| BP = 10
+}}
+
+'''Skull''' is as body part.
+
+== Variants ==
+These are the variants that can be obtained by default. [[Keeper]] can upgrade any body part using an [[Organ Improver]] at the [[Formulation Bench]].
+{| class="fandom-table"
+!Quality
+!{{Skull|Red}}
+!{{Skull|White}}
+!{{Mastery|Violet}}
+|-
+| rowspan="2" |Bronze
+|0
+|0
+| rowspan="2" |3
+|-
+|0
+|1
+|-
+| rowspan="2" |Silver
+|0
+|2
+| rowspan="2" |5
+|-
+|2
+|2
+|-
+| rowspan="2" |Gold
+|0
+|3
+| rowspan="2" |8
+|-
+|3
+|2
+|}
+
+== Obtaining ==
+
+* Remove from [[corpses]] (requires [[Anatomy and Alchemy]])
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| RP = 10
+| BP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

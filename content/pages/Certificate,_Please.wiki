@@ -1,0 +1,16 @@
+{{Quest infobox
+| character = Herbert
+| desc = Bring a Burial Certificate to Herbert, head of the guards. He's at the Crossroads.}}
+'''Certificate, Please''' is a [[quest]] from [[Herbert]].
+
+== Requirements ==
+* {{Item|Burial Certificate I}} (not consumed)
+
+== Rewards ==
+* Unlocks [[Expand graveyard I]]
+* {{Item|Story|1}}
+* {{Item|Reputation}} with Herberrt: +10
+* {{Item|Happiness}} +10
+
+== Navbox ==
+{{Quest navbox}}

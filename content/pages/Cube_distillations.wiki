@@ -1,0 +1,19 @@
+{{Perk infobox
+| tree = Anatomy
+| desc = The laws of alchemy are more like suggestions. Receive more items from the Distillation Cube.
+| pre = Violet mastery +1
+}}
+'''Cube distillations''' is a [[Keeper]] [[perk]] available in the [[Inspirations/Farming|Farming talent tree]].
+
+== Prerequisites ==
+*{{Mastery|Violet}} Violet mastery +1
+
+== Effects ==
+Receive more items from the [[Distillation Cube]].<noinclude>
+*Recipes affected:
+**{{Item|Melted Fat}}
+**{{Item|Alcohol}}
+**{{Item|Fragrance}}</noinclude>
+
+== Navigation ==
+{{Perk navbox}}

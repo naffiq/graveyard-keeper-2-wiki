@@ -1,0 +1,41 @@
+{{Item infobox
+| type = Wood
+| stack = 30
+| science = 10
+| RP = 35
+| BP = 15
+| crafting = Woodworking Workbench II
+| crafted = {{Item|Special Wood|2}}<br/>{{Item|Iron Chisel|1}}
+| technology = Wood Carving
+}}
+'''Carved Wood''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Woodworking Workbench II
+| item1 = Special Wood
+| mastery = Orange
+| item1Q = 2
+| masteryQ = 12
+| resultQ = 4
+| tree = Building
+| tech = Wood Carving
+| result = Carved Wood
+| item2 = Iron Chisel
+| item2Q = 1
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 10
+| RP = 35
+| BP = 15
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Madeira Entalhada]]

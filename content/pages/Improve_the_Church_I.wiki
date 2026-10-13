@@ -1,0 +1,22 @@
+{{Blueprint infobox
+| location = Church
+| technology = Church Cleaning
+| crafted = {{Item|Board|8}}<br/>{{Item|Piece of stone|6}}
+}}
+'''Improve the Church I''' is a blueprint that can be build in the [[Church]].
+
+It is not placed inside the Church, but affects its appearance. It can only be built once.
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Church
+| item1 = Board
+| item1Q = 8
+| item2 = Piece of stone
+| item2Q = 6
+| tree = Theology
+| tech = Church Cleaning
+}}
+
+== Navigation ==
+{{Blueprint navbox}}

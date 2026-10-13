@@ -1,0 +1,26 @@
+{{Item infobox
+| type = Body part
+| stack = 30
+| science = 1
+| faith = 1
+| BP = 10
+| RR = 1
+}}
+'''Flesh''' is a body part. It can be consumed to restore {{Icon|Energy|10}} and gain {{Icon|Insanity|10}}.
+
+== Obtaining ==
+* Remove from [[corpse]] (-1 {{Skull|White}})
+
+== Study and alchemy ==
+{{Study
+| Faith = 1
+| Science = 1
+| BP = 10
+| RR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

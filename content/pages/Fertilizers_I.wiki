@@ -1,0 +1,20 @@
+{{Tech infobox
+| tree = Farming
+| GP = 10
+| pre = [[Gardening]]
+}}
+'''Fertilizers I''' is a [[Technologies|technology]] in the [[Farming]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Peat}}
+|{{Item|Crop Boosting Fertilizer I}}
+|{{Blueprint|Compost Pile}}
+|}
+
+== Next technologies ==
+*[[Garden Improvement I]]
+*[[Fertilizers II]]
+
+== Navigation ==
+{{Farming navbox}}

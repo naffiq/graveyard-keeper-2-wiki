@@ -1,0 +1,2 @@
+{{Battles|Battle_Name=Break Through to the Bathhouse Basement|squads=3|defense_power=88|rewards=3x[[Keys for Looters]], [[Victory Banner]], 4x [[Zombie Goo]], [[Defender's Emblem]]}}
+[[Category:Battles]]

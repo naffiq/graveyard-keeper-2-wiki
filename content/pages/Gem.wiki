@@ -1,0 +1,23 @@
+{{Item infobox
+| type = Others
+| stack = 20
+}}
+
+'''Gem''' is a crafting material.
+
+== Obtaining ==
+* Sold by [[Trademaster]]
+* Mining the copper vein, in the [[Inquisition Base]]:
+** 20% with {{Item|Jeweler (perk)}}
+** 20% with {{Item|Miner}}
+* {{Blueprint|Zombie Miner|text=no}} [[Zombie Miner]]:
+** 10% with {{Item|Magpie’s Eye}}
+
+== Study and alchemy ==
+* This item cannot be studied.
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

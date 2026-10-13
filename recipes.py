@@ -1,8 +1,10 @@
 """Extract crafting recipes from the wiki's wikitext.
 
-Graveyard Keeper 2 pages list the cost of the page's own subject in a plain
-"Material | Quantity" table (see material_table). The Graveyard Keeper 1
-formats below are still parsed in case editors adopt them, e.g. on an item page:
+The Graveyard Keeper 2 wiki records recipes with templates (see
+recipe_templates): {{Recipe}} for crafting at a workstation and
+{{Recipe/Blueprint}} for what a structure costs to build. Plain
+"Material | Quantity" tables (material_table) and the Graveyard Keeper 1 table
+formats below are parsed as a fallback, e.g. on an item page:
 
     !colspan="3"|{{Item|Furnace}}          <- station header row
     |-
@@ -169,11 +171,103 @@ def material_table(rows):
     return materials
 
 
+def templates(text, names):
+    """Yield (name, params) for each call of the given templates.
+
+    Handles nested {{...}} and [[...]] inside parameter values; positional
+    parameters are keyed "1", "2", ...
+    """
+    wanted = {n.lower() for n in names}
+    i = 0
+    while True:
+        i = text.find("{{", i)
+        if i < 0:
+            return
+        depth, j = 0, i
+        while j < len(text):
+            if text.startswith("{{", j):
+                depth += 1
+                j += 2
+            elif text.startswith("}}", j):
+                depth -= 1
+                j += 2
+                if depth == 0:
+                    break
+            else:
+                j += 1
+        body = text[i + 2:j - 2]
+        # split on top-level pipes only
+        parts, buf, d = [], "", 0
+        k = 0
+        while k < len(body):
+            two = body[k:k + 2]
+            if two in ("{{", "[["):
+                d += 1
+                buf += two
+                k += 2
+            elif two in ("}}", "]]"):
+                d -= 1
+                buf += two
+                k += 2
+            elif body[k] == "|" and d == 0:
+                parts.append(buf)
+                buf = ""
+                k += 1
+            else:
+                buf += body[k]
+                k += 1
+        parts.append(buf)
+        name = parts[0].strip()
+        if name.lower() in wanted:
+            params, pos = {}, 0
+            for p in parts[1:]:
+                key, eq, val = p.partition("=")
+                if eq and re.fullmatch(r"\s*[\w ]+\s*", key):
+                    params[key.strip()] = val.strip()
+                else:
+                    pos += 1
+                    params[str(pos)] = p.strip()
+            yield name, params
+            i = j
+        else:
+            i += 2  # look inside: the wanted template may be nested
+
+
+def _qty(value, default=1.0):
+    m = re.search(r"\d+(?:[.,]\d+)?", value or "")
+    return float(m.group().replace(",", ".")) if m else default
+
+
+def recipe_templates(title, text):
+    """{{Recipe|blueprint=Furnace II|result=Iron Ingot|resultQ=3|item1=Iron Ore|item1Q=3|...}}
+    and {{Recipe/Blueprint|location=General|result=Simple Chest|item1=Wooden Plank|item1Q=4|...}}."""
+    out = []
+    for name, p in templates(text, ["Recipe", "Recipe/Blueprint"]):
+        materials = []
+        for n in range(1, 10):
+            item = p.get(f"item{n}", "").strip()
+            if item:
+                materials.append((norm(item), _qty(p.get(f"item{n}Q"))))
+        if not materials:
+            continue
+        product = norm(p.get("result") or title)
+        if name.lower() == "recipe/blueprint":
+            loc = p.get("location", "").strip()
+            stations = ["Any location" if loc.lower() in ("", "general") else norm(loc)]
+            out.append(dict(product=product, qty=1.0, materials=materials,
+                            station=" / ".join(stations), perk=False, source=title, building=True))
+        else:
+            stations = [norm(s) for s in (p.get("blueprint"), p.get("extension")) if s and s.strip()]
+            out.append(dict(product=product, qty=_qty(p.get("resultQ")), materials=materials,
+                            station=" / ".join(stations), perk=False, source=title))
+    return out
+
+
 def extract(title, text, in_place=None):
     text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
     text = re.sub(r"\{\{\s*(?:lc:|ucfirst:)?\s*\{\{\s*PAGENAME\s*\}\}\s*\}\}", title, text, flags=re.I)
     text = re.sub(r"\{\{\s*PAGENAME\s*\}\}", title, text, flags=re.I)
-    recipes = []
+    recipes = recipe_templates(title, text)
     is_item_page = re.search(r"\{\{\s*Item Infobox", text, re.I) is not None
     is_station_page = re.search(r"\{\{\s*Workstation-Infobox", text, re.I) is not None
     is_tech = re.search(r"\[\[\s*Category\s*:\s*Tech\s*\]\]", text, re.I) is not None

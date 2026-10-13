@@ -1,0 +1,17 @@
+{{Item infobox
+| type = Others
+| stack = 100
+}}
+
+'''Town Gratitude''' is an item that grants {{Item|Happiness|5}} when consumed.
+
+Happiness can never exceed {{Item|Town Quality}}. Any excess Happiness is lost.
+
+== Obtaining ==
+
+* Buy from [[Januarius]].
+* Reward from [[quests]].
+* Reward from [[Town Battles|battles]].
+
+== Navigation ==
+{{Item navbox}}

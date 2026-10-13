@@ -1,0 +1,21 @@
+{{Tech infobox
+| tree = Metallurgy
+| RP = 80
+| BP = 30
+| pre = [[Smithy I (technology)|Smithy I]]
+}}
+'''Smithy: Hammer''' is a [[Technologies|technology]] in the [[Metallurgy]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Iron Ingot}}
+|{{Item|Iron Kit I}}
+|{{Blueprint|Smithy: Hammer}}
+|}
+
+== Next technologies ==
+*[[Zombie Gears]]
+*[[Smithy: Bellows]]
+
+== Navigation ==
+{{Metallurgy navbox}}

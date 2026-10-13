@@ -1,0 +1,31 @@
+{{Item infobox
+| type = Alchemy
+| stack = 20
+| science = 15
+| BP = 20
+| GP = 10
+| GR = 1
+| BR = 2
+}}
+
+'''Blue Crystal''' is a crafting material.
+
+== Obtaining ==
+
+* Buy from [[Gunter]].
+* Every {{Icon|Envy|size=20}}, 4 crystal spawns in the [[Heart of the Swamp]].
+
+== Study and alchemy ==
+{{Study
+| Science = 15
+| GP = 10
+| BP = 20
+| GR = 1
+| BR = 2
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

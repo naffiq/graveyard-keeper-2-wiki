@@ -1,0 +1,28 @@
+{{Blueprint infobox
+| location = Yard
+| vertical = 2
+| horizontal = 2
+| technology = Iron Smithing
+| crafted = {{Item|Piece of stone|4}}<br/>{{Item|Iron Ingot|2}}
+}}
+
+'''Iron Anvil''' is a [[workstation]] that can be build in the [[Yard]]. It is an upgraded version of the [[Wooden Anvil]] and inherits all of its recipes while adding new ones.
+
+== Obtaining ==
+{{Recipe/Blueprint
+| location = Yard
+| item1 = Piece of stone
+| item1Q = 4
+| item2 = Iron Ingot
+| item2Q = 2
+| tree = Metallurgy
+| tech = Iron Smithing
+}}
+
+== Recipes ==
+{{Recipes}}
+
+== Navigation ==
+{{Blueprint navbox}}
+
+[[pt-br:Bigorna de Ferro]]

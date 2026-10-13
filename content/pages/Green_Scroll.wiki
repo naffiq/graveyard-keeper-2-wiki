@@ -1,0 +1,16 @@
+{{Item infobox
+| type = Others
+| stack = 999
+}}
+
+'''Green Scroll''' is an item used to increase {{Icon|Town Quality|size=20}} [[Town Quality]].
+
+== Obtaining ==
+
+* Repair houses and blocks in the [[Town]].
+
+== Uses ==
+* Talk to [[Linda]], in the [[Dockside Club]], during {{Icon|Lust|size=25}} to exchange Green Scroll for {{Icon|Town Quality|size=20}}.
+
+== Navigation ==
+{{Item navbox}}

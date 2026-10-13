@@ -1,0 +1,38 @@
+{{Item infobox
+| type = Food material
+| stack = 30
+| crafting = Millstone
+| science = 5
+| faith = 3
+| GP = 30
+| BR = 2
+| crafted = {{Item|Flesh}}
+| technology = Anyway...
+}}
+'''Minced Meat''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Millstone
+| item1 = Flesh
+| mastery = Green
+| masteryQ = 2
+| result = Minced Meat
+| resultQ = 2
+| tech = Anyway...
+| tree = Farming
+}}
+
+== Study and alchemy ==
+{{Study
+| Faith = 3
+| Science = 5
+| GP = 30
+| BR = 2
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

@@ -1,0 +1,2 @@
+{{Battles|Battle_Name=Central Districts Purge: Part 2|squads=3|defense_power=56|rewards=[[Victory Banner]], 6x[[Zombie Goo]], 4x[[Town Gratitude]]}}
+[[Category:Battles]]

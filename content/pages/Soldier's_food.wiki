@@ -1,0 +1,16 @@
+{{Tech infobox
+| tree = Cooking
+| pre = [[Yummies]]
+}}
+'''Soldier's food''' is a [[Technologies|technology]] in the [[Cooking]] Tech Tree.
+
+It is automatically unlocked upon completing the [[quest]] "[[Yummies]]".
+
+== Unlocks ==
+{|
+|{{Item|Soldier's ale}}
+|{{Item|Soldier's stew}}
+|}
+
+== Navigation ==
+{{Cooking navbox}}

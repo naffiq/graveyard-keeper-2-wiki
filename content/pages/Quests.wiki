@@ -1,0 +1,23 @@
+'''Quests''' is a game system in ''[[Graveyard Keeper 2]]''. Quests are the main way the story progresses and can unlock new game systems, [[locations]], and even [[technologies]]. Each quest has a [[Characters|main character]] and a reward, and usually consists of several steps.
+
+Quests can be viewed in the '''Quest Log''', which displays the character associated with the quest, its name, and its description.
+
+== List of quests ==
+
+=== Herbert ===
+<table-progress-tracking table-id="herbert" unique-column-index="1">
+{| class="fandom-table"
+!Quest !! Requirements !! Reward
+|-
+|[[Certificate, Please]] || ||{{Icon|Reputation|+10}}
+|-
+|[[Grave Expectations]] || ||{{Icon|Reputation|+10}}
+|-
+|[[Fighting Spirit Required]] || ||
+|-
+|[[Swords and Bell]] || {{Icon|Barracks|12}} ||
+|}
+</table-progress-tracking>
+
+== Navigation ==
+{{Game System navbox}}

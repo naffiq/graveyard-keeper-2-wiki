@@ -1,0 +1,19 @@
+{{Tech infobox
+| tree = Building
+| RP = 10
+| pre = [[The Concept of Wood]]
+}}
+'''Wood Working I''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|[[File:Wooden Plank.png|link=Wooden Plank]]
+|[[File:Woodworking Workbench I (blueprint).png|link=Woodworking Workbench I]]
+|}
+
+== Next technologies ==
+* [[Suit Up!]]
+* [[Tool Rack]]
+
+== Navigation ==
+{{Building navbox}}

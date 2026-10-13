@@ -1,0 +1,2 @@
+{{Battles|Battle_Name=Sewer Brawl I|squads=1|defense_power=8|rewards=3×[[Keys for Looters]], 4×[[Zombie goo]], 3×[[Town Gratitude]]}}
+[[Category:Battles]]

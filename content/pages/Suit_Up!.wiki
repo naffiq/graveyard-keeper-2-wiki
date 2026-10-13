@@ -1,0 +1,14 @@
+{{Tech infobox
+| tree = Building
+| RP = 15
+| pre = [[Woodworking I]]
+}}
+'''Suit Up!''' is a [[Technologies|technology]] in the [[Building]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Blueprint|Dresser with mirror}}
+|}
+
+== Navigation ==
+{{Building navbox}}

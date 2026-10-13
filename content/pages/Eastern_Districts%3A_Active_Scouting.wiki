@@ -1,0 +1,3 @@
+
+[[Category:Battles]]
+{{Battles|Battle_Name=Eastern Districts: Active Scouting|squads=1|defense_power=12|rewards=[[Defender's Emblem]], 6x[[Zombie Goo]], 4x[[Town Gratitude]]}}

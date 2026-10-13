@@ -1,0 +1,27 @@
+{{Item infobox
+| type = Food
+| stack = 50
+| science = 1
+| faith = 1
+| BP = 20
+| BR = 1
+| energy = 4
+}}
+'''Blueberry''' is a crafting material. It can be consumed to restore {{Icon|Energy|4|size=20}}.
+
+== Obtaining ==
+* Gathered from Berry Bushes in the [[Swamp]].
+
+== Study and alchemy ==
+{{Study
+| Science = 1
+| Faith = 1
+| BP = 20
+| BR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Food navbox}}

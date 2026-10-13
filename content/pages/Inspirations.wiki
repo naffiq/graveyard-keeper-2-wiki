@@ -1,0 +1,43 @@
+'''Inspirations''' is a game system in ''[[Graveyard Keeper 2]]''. Inspirations are divided into five types, corresponding to the same categories as [[Masteries]]. Each type has its own talent tree, where inspiration points can be spent to unlock [[perks]]. 
+
+* {{Inspiration|Violet}} unlocks perks for {{Mastery|Violet}} activities.
+* {{Inspiration|Green}} unlocks perks for {{Mastery|Green}} activities.
+* {{Inspiration|Red}} unlocks perks for {{Mastery|Red}} activities.
+* {{Inspiration|Orange}} unlocks perks for {{Mastery|Orange}} activities.
+* {{Inspiration|Blue}} unlocks perks for {{Mastery|Blue}} activities.
+
+Inspiration points are earned by filling an inspiration bar. Each task adds one square of progress, and higher inspiration levels require more squares to fill the bar. Some tasks have multiple levels, with the first level usually being free, while subsequent levels require {{Item|Faith}}.
+
+Tasks cover a wide range of gameplay activities and are related to the area associated with each type of Inspiration.
+
+== Inspiration level ==
+{| class="fandom-table"
+!Level
+!Squares needed
+|-
+|1
+|2
+|-
+|2
+|3
+|-
+|3
+|4
+|-
+|4+
+|5
+|}
+
+== Talent tree ==
+Each node in the talent tree costs 1 Inspiration Point and can only be unlocked if the preceding nodes have already been purchased.
+
+The task and talent tree can be viewed in their respective page:
+
+* {{Mastery|Orange}}{{Inspiration|Orange}}[[Inspirations/Building|Building talent tree]]
+* {{Mastery|Green}}{{Inspiration|Green}}[[Inspirations/Farming|Farming talent tree]]
+* {{Mastery|Red}}{{Inspiration|Red}}[[Inspirations/Metallurgy|Metallurgy talent tree]]
+* {{Mastery|Blue}}{{Inspiration|Blue}}[[Inspirations/Book|Book talent tree]]
+* {{Mastery|Violet}}{{Inspiration|Violet}}[[Inspirations/Anatomy|Anatomy talent tree]]
+
+== Navigation ==
+{{Game System navbox}}

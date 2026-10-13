@@ -1,8 +1,0 @@
-A list of all food with links to their respectable pages
-
-Food:
-
-* [[Brown Mushroom]]
-* [[Bread]]
-[[Category:Food]]
-[[Category:Cooking ingredients]]

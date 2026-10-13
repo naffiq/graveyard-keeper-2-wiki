@@ -1,0 +1,9 @@
+{{NPC infobox}}
+'''Keeper''' is the [[character]] controlled by the player in ''[[Graveyard Keeper 2]]''. As the playable character, the Keeper does not have any associated [[quests]] or {{Icon|Reputation}} reputation.
+
+The Keeper's appearance can be changed using the [[Dresser with Mirror]] in the [[Home]]. Most appearances are obtained as quest rewards.
+
+== Navigation ==
+{{Character navbox}}
+
+[[pt-br:Coveiro]]

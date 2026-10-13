@@ -1,0 +1,16 @@
+{{Tech infobox
+| tree = Cooking
+| pre = [[Cabbage]]
+}}
+'''Cabbage dishes''' is a [[Technologies|technology]] in the [[Cooking]] Tech Tree.
+
+It is automatically unlocked upon obtain a {{Item|Cabbage}} from a [[Garden Bed]].
+
+== Unlocks ==
+{|
+|{{Item|Bowl of sauerkraut}}
+|{{Item|Cabbage soup}}
+|}
+
+== Navigation ==
+{{Cooking navbox}}

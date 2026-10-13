@@ -1,0 +1,19 @@
+{{Location infobox
+| area = Inquisition Base
+| connects = [[Morgue]]
+}}
+'''Resurrection Lab''' is a location found in the [[Morgue]]. It remains locked behind the Old Door, only can be repaired after complete the [[Quests|quest]] "[[Sweet Dreams]]". Here, every {{Icon|Envy|size=20}}, the [[Keeper]] can create new [[zombies]].
+
+== Repairs ==
+{| class="fandom-table"
+!Blueprint
+!Materials
+!Mastery
+|-
+| align="center" |{{Repair|Resurrection device}}
+|{{Item|Bronze Detail|1}}<br />{{Item|Wooden Plank|2}}
+|{{Mastery|Orange|3}}
+|}
+
+== Navigation ==
+{{Location navbox}}

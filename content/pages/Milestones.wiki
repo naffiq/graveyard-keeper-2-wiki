@@ -1,0 +1,35 @@
+'''Milestones''' are a fast travel mechanic that allows the [[Keeper]] to travel to different [[locations]]. Travel is only possible between Milestones.
+
+Each milestone must be activated using {{Item|Faith}}, after which it can be used indefinitely with no cooldown.
+
+Activating a milestone contributes to the [[Milestone Hunter]] [[Inspirations|Inspiration]].
+
+== List of milestones ==
+{| class="fandom-table"
+!Location
+!{{Item|Faith}}
+|-
+|[[Yard]]
+|Free
+|-
+|[[Graveyard]]
+|1
+|-
+|[[Crossroads]]
+|1
+|-
+|[[Village]]
+|1
+|-
+|[[Town]]
+|4
+|-
+|[[Quarry]]
+|6
+|-
+|[[Swamp]]
+|8
+|}
+
+== Navigation ==
+{{Game System navbox}}

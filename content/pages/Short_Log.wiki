@@ -1,0 +1,33 @@
+{{Item infobox
+| type = Wood
+| stack = 50
+| science = 1
+| RP = 10
+| crafting = [[Sawhorse]]
+}}
+'''Short Log''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Sawhorse
+| item1 = Log
+| mastery = Orange
+| item1Q = 1
+| masteryQ = 1
+| resultQ = 2
+| tree = Building
+| tech = The Concept of Wood
+| result = Short Log
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 1
+| RP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

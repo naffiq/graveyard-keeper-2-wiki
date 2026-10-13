@@ -1,9 +1,30 @@
-This is your home away from home, your main saving spot
+{{Location infobox
+| Connects = [[Yard]]<br/>[[Writing Basement]]
+}}
 
-This location contains:
+'''Home''' is a [[location]] and [[Keeper]]'s residence. It contains a [[bed]], a [[kitchen table]], and an [[oven]].
 
-* Bed 
-* Kitchen Oven 
-* kitchen table 
-* millstone
-[[Category:Location]]
+== Repairs ==
+{| class="fandom-table"
+!Blueprint
+!Materials
+!Mastery
+|-
+|align="center"|[[File:Broken Oven (blueprint).png|link=]]<br/>Broken Oven
+|{{Item|Piece of stone|2}}
+|{{Mastery|Orange|3}}
+|-
+|align="center"|[[File:Broken Kitchen Table (blueprint).png|link=]]<br/>Broken Kitchen Table
+|{{Item|Wooden Plank|2}}
+|{{Mastery|Orange|3}}
+|-
+|align="center"|Locked hatch
+|{{Item|Bronze Detail|1}}<br/>{{Item|Board|2}}
+|{{Mastery|Orange|2}}
+|}
+
+== Blueprint Desk ==
+{{Blueprints}}
+
+== Navigation ==
+{{Location navbox}}

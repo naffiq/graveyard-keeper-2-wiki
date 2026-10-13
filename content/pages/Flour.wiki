@@ -1,0 +1,41 @@
+{{Item infobox
+| type = Food material
+| stack = 50
+| crafting = Millstone
+| science = 2
+| faith = 1
+| GP = 10
+| GR = 2
+| crafted = {{Item|Wheat|4}}
+| technology = Millstone (technology)
+}}
+'''Flour''' is a crafting material.
+
+== Obtaining ==
+
+* Buy from [[Baker]].
+{{Recipe
+| blueprint = Millstone
+| item1 = Wheat
+| mastery = Green
+| item1Q = 4
+| result = Flour
+| resultQ = 5
+| tech = Millstone (technology)
+| masteryQ = 2
+| tree = Farming
+}}
+
+== Study and alchemy ==
+{{Study
+| Faith = 1
+| Science = 2
+| GP = 10
+| GR = 2
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

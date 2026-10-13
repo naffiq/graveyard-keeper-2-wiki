@@ -1,0 +1,30 @@
+{{Item infobox
+| type = Others
+| stack = 999
+| science = 1
+| GR = 1
+| GP = 5
+| BP = 5
+}}
+
+'''Water''' is a crafting material.
+
+== Obtaining ==
+
+* Well in the [[garden]].
+
+== Study and alchemy ==
+{{Study
+| Science = 1
+| GP = 5
+| BP = 5
+| GR = 1
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}
+
+[[pt-br:Água]]

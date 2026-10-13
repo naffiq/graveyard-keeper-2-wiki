@@ -1,0 +1,37 @@
+{{Item infobox
+| type = Wood
+| stack = 30
+| science = 10
+| RP = 20
+| crafting = Woodworking Workbench I
+| crafted = {{Item|Melted Fat|1}}<br/>{{Item|Wooden Plank|4}}
+| technology = Oiled wood
+}}
+'''Oiled Plank''' is a crafting material.
+
+== Obtaining ==
+{{Recipe
+| blueprint = Woodworking Workbench I
+| item1 = Melted Fat
+| mastery = Orange
+| item1Q = 1
+| masteryQ = 4
+| resultQ = 4
+| tree = Building
+| tech = Oiled wood
+| result = Oiled Plank
+| item2 = Wooden Plank
+| item2Q = 4
+}}
+
+== Study and alchemy ==
+{{Study
+| Science = 5
+| RP = 10
+}}
+
+== Uses ==
+{{Uses}}
+
+== Navigation ==
+{{Item navbox}}

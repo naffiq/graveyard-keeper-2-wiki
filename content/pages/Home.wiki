@@ -1,0 +1,9 @@
+This is your home away from home, your main saving spot
+
+This location contains:
+
+* Bed 
+* Kitchen Oven 
+* kitchen table 
+* millstone
+[[Category:Location]]

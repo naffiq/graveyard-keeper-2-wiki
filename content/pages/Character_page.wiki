@@ -1,0 +1,44 @@
+Merchants(Split by Natural and Buildable till i can hide the buildable ones):
+
+* [[Januarius]]
+* [[Herm]]
+* [[Jack]]
+* Astronomer
+* The Twins
+* Nature Godess
+
+Buildable merchants:
+
+* [[Homobonus]](yes actually a npc)
+1. Research
+* [[Apothecary]]
+* Tailor
+* Food Merchant
+2. Research
+* Master Builder
+* Smith
+3. research
+
+* Tavern Keeper
+* Brewer
+
+4. Research
+* Furniture Merchant
+* Baker
+* Fishmonger
+5. Research
+* Jewler
+* Alchemist
+
+Quest and story only Npc:
+
+* [[Donkey]]
+* Herbert
+* Larry
+* Mercenarys
+* Fae
+* Nun
+* Plague Doctor
+* Plunderer
+* Linda
+*

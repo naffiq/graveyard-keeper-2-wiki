@@ -1,0 +1,4 @@
+[
+{"product": "Chest (Tech)", "qty": 1.0, "materials": [["Oiled plank", 4.0], ["Wooden Beam", 2.0], ["Iron nail", 6.0]], "stations": ["Build"], "perk": false, "building": true},
+{"product": "Simple Chest (Tech)", "qty": 1.0, "materials": [["Wood Plank", 4.0], ["Bronze nail", 4.0]], "stations": ["Build"], "perk": false, "building": true}
+]

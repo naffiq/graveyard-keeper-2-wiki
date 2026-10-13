@@ -1,0 +1,5 @@
+Bread refills 18 Energy
+
+Bread can be created in the Kitchen Oven in The Inquisition Base, in batches of 4 using 4 Dough and 10 fire.
+[[Category:Food]]
+[[Category:Cooking Ingredient]]

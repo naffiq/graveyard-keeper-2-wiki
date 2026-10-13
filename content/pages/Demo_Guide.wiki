@@ -1,0 +1,22 @@
+This is a guide for begginers to start in Graveryard Keeper 2.
+The main idea is to show possible steps that can be missed and can be source of doubts or being stucked in some parts of the game.
+==Start==
+<table-progress-tracking table-id="Start" unique-column-index="1">
+{| class="wikitable sortable"
+|-
+! Step !! Image !! Action !! Notes
+|-
+| What the... || [[File:What the... box.png|alt=What the...|thumb]] || You have to click on the text box || Usually you have several choices to answer or make a question, but at the very start of the game you only have one option
+|-
+| Equip Pickaxe || [[File:Equip Pickaxe.png|alt=Equip pickaxe|thumb]] || Click on TAB to access to your inventory, then left click on the pickaxe or right click + Equip ||
+|-
+| Use Mushroom || [[File:Use Mushroom.png|alt=Use Mushroom|thumb]] || Click on TAB to access to your inventory, then left click on the mushroom or right click + Use ||
+|}
+</table-progress-tracking>
+
+==Wood Order==
+[[File:Wood 1.png|alt=Wood Diagram 1|thumb]]
+Diagram of the begining woods materials.
+
+==Next==
+''Work in progress...''

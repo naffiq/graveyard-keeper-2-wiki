@@ -1,0 +1,8 @@
+The forrest contains following areas
+
+* sawmill
+* bandits
+* mine 
+* marble quarry
+* sauna
+*

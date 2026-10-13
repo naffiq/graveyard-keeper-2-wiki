@@ -1,0 +1,20 @@
+The single chest can be placed in almost any location.
+
+It can hold 20 items (5x4).
+
+=== Crafting ===
+{| class="fandom-table"
+|+
+!Material
+!Quantity
+|-
+|Wood Plank
+|4
+|-
+|Bronze nail
+|4
+|-
+|
+|
+|}
+[[Category:Tech]]

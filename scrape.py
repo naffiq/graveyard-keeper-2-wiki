@@ -400,6 +400,17 @@ class Archiver:
                     print(f"  images {done}/{len(items)}")
 
     # ---------- rewriting ----------
+    def page_for(self, name):
+        """Page describing an item name: exact title, redirect, then a
+        case-insensitive match (recipes say "Cream of Mushroom Soup", the
+        page is "Cream of mushroom soup")."""
+        page = self.redirects.get(name, (name, None))[0]
+        if page in self.pages:
+            return page
+        if not hasattr(self, "_lower_pages"):
+            self._lower_pages = {t.lower(): t for t in self.pages}
+        return self._lower_pages.get(name.lower())
+
     def link_target(self, href):
         """Map a wiki href to a local file, or return None if not local."""
         m = re.match(r"^(?:" + re.escape(BASE) + r")?/wiki/([^?#]+)(#.*)?$", href)
@@ -592,9 +603,9 @@ class Archiver:
         items = {}
         for n in names:
             entry = {}
-            href = self.link_target("/wiki/" + urllib.parse.quote(n.replace(" ", "_")))
-            if href:
-                entry["h"] = href
+            page = self.page_for(n)
+            if page:
+                entry["h"] = page_href(page)
             if n in sprites:
                 entry["s"] = sprites[n]
             elif n in images:
@@ -608,7 +619,9 @@ class Archiver:
                     entry["i"] = self.local_image(m.group(1))[len("../"):]
             items[n] = entry
         rows = [[r["product"], r["qty"], [[m, q] for m, q in r["materials"]], r["stations"],
-                 (1 if r["perk"] else 0) | (2 if r["building"] else 0)] for r in self.recipes]
+                 (1 if r["perk"] else 0) | (2 if r["building"] else 0)]
+                + ([[[n, q] for n, q in r["also"]]] if r.get("also") else [])
+                for r in self.recipes]
         data = json.dumps({"items": items, "recipes": rows}, ensure_ascii=False, separators=(",", ":"))
         with open(os.path.join(self.out, "data.js"), "w") as f:
             f.write("window.GK_DATA = " + data.replace("</", "<\\/") + ";\n")
@@ -706,8 +719,8 @@ Unofficial offline copy, not affiliated with Fandom or the game's developers.</p
         self.products = {r["product"] for r in self.recipes}
         print(f"{len(self.recipes)} recipes for {len(self.products)} items")
         for p in sorted(self.products):
-            page = self.redirects.get(p, (p, None))[0]
-            if page in self.pages:
+            page = self.page_for(p)
+            if page:
                 self.page_products.setdefault(page, []).append(p)
         self.write_pages()
         # Item icons are CSS sprites cut from one sheet (see MediaWiki:Common.css).

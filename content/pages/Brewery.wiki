@@ -1,0 +1,62 @@
+The Brewery is a [[Artisans|Artisan]] that trades items related to brewing such as Hops, Grapes, Wine, and Beer. 
+
+== Building & Upgrading ==
+{| class="fandom-table"
+!Level
+!Resources
+|-
+|Brewery I
+|6x [[Building Kit I]], 4x [[Wodden Kit I]], 2x [[Iron Kit I]]
+|-
+|Brewery II
+|6x [[Furniture Kit I]], 4x [[Marble Kit]], 20x [[Bronze Grape Juice]]
+|-
+|Brewery III
+|6x [[Furniture Kit II]], 3x [[Building Kit II]], 20x [[Gold Grape Juice]]
+|}
+
+== Werehouse ==
+{| class="fandom-table"
+|+Orders
+!Level
+!Item
+!Amount
+!Priority
+!Happieness
+|-
+|I
+|[[Kitchen Utensils]]
+|10
+|Yes
+|50
+|-
+|I
+|[[Kitchen Utensils]]
+|10
+|No
+|25
+|-
+|II
+|[[Cutlery II]]
+|10
+|Yes
+|75
+|-
+|II
+|[[Cutlery II]]
+|10
+|No
+|40
+|-
+|III
+|
+|
+|
+|
+|-
+|III
+|
+|
+|
+|
+|}

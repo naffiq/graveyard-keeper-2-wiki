@@ -1,0 +1,62 @@
+The Tavern is a [[Artisans|Artisan]] 
+
+== Building & Upgrading ==
+{| class="fandom-table"
+!Level
+!Resources
+|-
+|Tavern I
+|6x [[Building Kit I]], 4x [[Wodden Kit I]], 2x [[Iron Kit I]]
+|-
+|Tavern II
+|6x [[Furniture Kit I]], 4x [[Marble Kit]], 20x [[Apple Cider]]
+|-
+|Tavern III
+|6x [[Furniture Kit II]], 3x [[Building Kit II]], 20x [[Blueberry Cider]]
+|}
+
+== Werehouse ==
+{| class="fandom-table"
+|+Orders
+!Level
+!Item
+!Amount
+!Priority
+!Happieness
+|-
+|I
+|[[Preserves I]]
+|10
+|Yes
+|50
+|-
+|I
+|[[Preserves I]]
+|10
+|No
+|25
+|-
+|II
+|[[Beer]]
+|10
+|Yes
+|50
+|-
+|II
+|[[Beer]]
+|10
+|No
+|25
+|-
+|III
+|[[Wine]]
+|10
+|Yes
+|50
+|-
+|III
+|[[Wine]]
+|10
+|No
+|25
+|}

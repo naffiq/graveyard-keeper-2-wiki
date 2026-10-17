@@ -4,6 +4,8 @@
 }}
 '''Town''' is an area located to the right of the [[Crossroads]].
 
+'''Town''' has various Blueprint Stations (labeled [[House Repair]], [[Market Stalls]], and [[Artisans|Workshop Courtyards]]) spread throughout that when built help the player continue throughout the game. 
+
 == Areas ==
 
 * [[Square]]

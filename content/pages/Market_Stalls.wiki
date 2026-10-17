@@ -1,0 +1,1 @@
+'''Market Stalls''' are sub locations in [[Town]] that can be repaired by the player. Once repaired the stalls acts as a shop where items can be bought and sold. Secondly, these shops also provide new Orders at the [[Warehouse]] which are used to generate [[Happieness]] for Sermons and various quests.

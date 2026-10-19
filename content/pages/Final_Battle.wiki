@@ -1,0 +1,2 @@
+{{Battles|Battle_Name=Final Battle|squads=4|defense_power=144|rewards=10x [[Zombie goo]], 16x [[Town Gratitude]]}}
+[[Category:Battles]]

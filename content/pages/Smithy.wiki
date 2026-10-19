@@ -1,0 +1,62 @@
+The Smithy is a [[Artisans|Artisan]] building that can be constructed in [[Town]] at any of the [[Workshop Courtyards|Workshop Courtyard]] locations.
+
+== Building & Upgrading ==
+{| class="fandom-table"
+!Level
+!Resources
+|-
+|Smithy I
+|6x [[Building Kit I]], 4x [[Wodden Kit I]], 2x [[Iron Kit I]]
+|-
+|Smithy II
+|3x [[Furniture Kit I]], 2x [[Marble Kit]], 6x [[Advanced Detail]]]]
+|-
+|Smithy III
+|4x [[Furniture Kit II]], 2x [[Building Kit II]], 12x [[Steel Screws]]
+|}
+
+== Werehouse ==
+{| class="fandom-table"
+|+Orders
+!Level
+!Item
+!Amount
+!Priority
+!Happieness
+|-
+|I
+|[[Building Materials I]]
+|10
+|Yes
+|40
+|-
+|I
+|[[Building Materials I]]
+|10
+|No
+|25
+|-
+|II
+|[[Building Materials II]]
+|10
+|Yes
+|50
+|-
+|II
+|[[Building Materials II]]
+|10
+|No
+|25
+|-
+|III
+|[[Engineering Mechanism]]
+|10
+|Yes
+|50
+|-
+|III
+|[[Engineering Mechanism]]
+|10
+|No
+|25
+|}

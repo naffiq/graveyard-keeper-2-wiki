@@ -92,6 +92,7 @@
 {"product": "Skin", "qty": 1.0, "materials": [["Bones", 1.0]], "stations": [], "perk": false, "building": false, "also": []},
 {"product": "Skull", "qty": 1.0, "materials": [["Tooth", 1.0]], "stations": [], "perk": false, "building": false, "also": []},
 {"product": "Sluice Box", "qty": 1.0, "materials": [["Board", 4.0], ["Bronze Nails", 4.0]], "stations": ["Yard"], "perk": false, "building": true, "also": []},
+{"product": "Smithy", "qty": 1.0, "materials": [["Building Materials I", 10.0], ["Building Materials II", 10.0], ["Engineering Mechanism", 10.0]], "stations": [], "perk": false, "building": false, "also": []},
 {"product": "Smithy: Hammer", "qty": 1.0, "materials": [["Wooden beam", 2.0], ["Iron Detail", 2.0], ["Iron Ingot", 1.0]], "stations": ["Factory"], "perk": false, "building": true, "also": []},
 {"product": "Soldier's ale", "qty": 1.0, "materials": [["Soldier's stew", 1.0]], "stations": [], "perk": false, "building": false, "also": []},
 {"product": "Steel Detail", "qty": 4.0, "materials": [["Steel Ingot", 1.0]], "stations": ["Steel Anvil"], "perk": false, "building": false, "also": []},

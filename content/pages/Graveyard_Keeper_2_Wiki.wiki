@@ -11,11 +11,13 @@ Welcome to the '''{{SITENAME}}'''! We're a collaborative community about {{topic
 |[[Characters]]
 |[[Locations]]
 |[[Versions]]
+|
 |-
 !Mechanics
 |[[Quests]]
 |[[Technologies]]
 |[[Study]]
+|[[Recipe Book & Crafting Calculator|Recipe Book]]
 |}
 
 == About Graveyard Keeper 2 ==

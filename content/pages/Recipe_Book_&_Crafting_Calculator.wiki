@@ -1,0 +1,141 @@
+[[File:Recep Book.png|thumb]]
+Welcome to the [[Graveyard Keeper 2 Wiki|Graveyard Keeper 2]] crafting guide and recipe book. Here you can find the materials needed for each structure, as well as a breakdown of raw materials to help you plan your crafting sessions.
+
+== Main Categories ==
+{| class="wikitable" style="width:100%; text-align:center;"
+! style="width:50%; padding:10px;" | [[File:Crafteo.png|41x41px|middle|link=#Crafteos]]<br>[[#Crafts|Crafting]]
+! style="width:50%; padding:10px;" | [[File:PiedraB.png|link=link=#Materiales Base|39x39px]]<br>[[#Base Materials|Base Materials]]
+|-
+! style="width:50%; padding:10px;" | [[File:Tools.png|link=link=#Tools|39x39px]]<br>[[#Tools|Tools]]
+! style="width:50%; padding:10px;" | [[File:Places.png|link=link=#Places|39x39px]]<br>[[#Places|Places]]
+|}
+
+== Crafters ==
+{| class="wikitable sortable" style="width:100%;"
+! style="width:15%;" | Place
+! style="width:20%;" | Craft
+! style="width:25%;" | Materials
+! style="width:40%;" | Total Raw Materials
+|-
+| [[Casa|Cabin]]
+| [[File:HC2.png|65x65px|middle]]<br>'''Kitchen Oven II'''
+|
+* 16× [[File:Piedra.png|39x39px]] [[Piece of stone|Piece of rock]]
+* 4× [[File:Piedra Pulida.png|43x43px]] [[Stone Polishing|Polished stone]]
+* 4× [[File:Detalles Hierro.png|41x41px]] [[Iron Detail|Iron detail]]
+|
+<div class="mw-collapsible mw-collapsed" style="border: 1px solid rgba(150, 150, 150, 0.35); background-color: rgba(150, 150, 150, 0.1); padding: 8px; border-radius: 4px;">
+<div style="font-weight: bold; cursor: pointer; text-decoration: underline;">▶ View the total amount of pure resources needed...</div>
+<div class="mw-collapsible-content" style="margin-top: 8px;">
+
+'''Tools / Required stations:'''
+* Stonemason's bench, Anvil II, Distillation pot, Mill wheel, Chopping block.
+
+'''Raw Materials Shopping List (Raw):'''
+* 20× Stone Chunk (16 for the furnace + 4 for polished stones)
+* 16× Wooden Wedges (Made from Small Logs)
+* 1× Iron Ingot (For the 4 iron parts)
+* 2× Sand (From the piles by the river)
+* 1× Fat (From corpses) OR 4× Any seeds (To make 3 oils)
+* Various fuel (Firewood or Twigs)
+
+<div style="font-size: 88%; opacity: 0.85; border-top: 1px dashed rgba(150, 150, 150, 0.4); padding-top: 8px; margin-top: 8px;">
+
+;Steps in the Transformation Process
+;* Polished Stone (4x): 4× Stone Chunk + 1× Melted Fat + 2× Sand @ Stonemason's Bench
+;* Melted Fat (1x): 1× Fat (or 3× Oil) + 2× Clay Plate + Fuel @ Distillation Pot
+;* Iron Detail (4x): 1× Iron Ingot @ Anvil II
+;* Stone Chunk (16x): 8× Stone + 16× Wooden Wedge @ Stonemason’s Bench
+
+</div>
+</div>
+</div>
+|-
+|[[Crypt]]
+|[[File:Martillo.png|65x65px]]<br>'''Underground Well'''
+|
+*2× [[File:Bronce Pulido.png|39x39px]][[Polished Bronze]]
+* 4× [[File:Piedra Pulida.png|43x43px]] [[Stone Polishing|Polished stone]]
+|
+|-
+| [[Morge|Morge]]
+| [[File:PDVC.png|65x65px|middle]]<br>'''Dumping Site for Corpses'''
+|
+* 1× [[File:Detalles Hierro.png|39x39px]] [[Iron Detail|Iron detail]]
+* 3× [[File:Tablon Aceitoso.png|43x43px]] [[Oily board|Oily board]]
+|
+|-
+| [[Morge|Morge]]
+| [[File:PDVC.png|65x65px|middle]]<br>'''Block 1'''
+|
+* 1× [[File:Detalles Hierro.png|39x39px]] [[Iron Detail|Iron detail]]
+* 3× [[File:Tablon Aceitoso.png|43x43px]] [[Oily board|Oily board]]
+|
+|-
+| [[Morge|Morge]]
+| [[File:PDVC.png|65x65px|middle]]<br>'''Block 2'''
+|
+* 1× [[File:Detalles Hierro.png|39x39px]] [[Iron Detail|Iron detail]]
+* 3× [[File:Tablon Aceitoso.png|43x43px]] [[Oily board|Oily board]]
+|
+|-
+| [[Morge|General]]
+| [[File:Cofre.png|65x65px|middle]]<br>'''Chest'''
+|
+* 6× [[File:Clavos_Hierro.png|39x39px]] [[Iron Detail|Iron nail]]
+* 2× [[File:Viga_Madera.png|43x43px]] [[Oily board|Wooden beam]]
+* 4× [[File:Tablon Aceitoso.png|43x43px]] [[Oily board|Oily board]]
+|
+|}
+
+== Base Materials ==
+{| class="wikitable sortable" style="width:100%;"
+! style="width:30%;" | Material
+! style="width:40%;" | Where / How to Get It
+! style="width:30%;" | Station / Tool
+|-
+| [[File:PiedraB.png|Piedra.png]]'''[[Stone]]'''
+| [[File:MapaPiedra.png|thumb|107x107px]]Mined around the map
+| [[Pico|Pickaxe]]
+|-
+| [[File:Mineral de hierro.png|Mineral de hierro.png]]'''[[Iron Ore|Iron ore]]'''
+| [[File:MapaMetal.png|thumb|93x93px]]Mined around the map
+| [[Pico|Pickaxe]]
+|-
+| [[File:Leño.png|Mineral de hierro.png]]'''Firewood'''
+| [[File:Arboles.png|thumb|90x90px]]Cutting Down Trees
+| [[Bronze Axe|Axe]]
+|}
+
+== Tools ==
+{| class="wikitable sortable" style="width:100%;"
+! style="width:30%;" | Tool
+! style="width:40%;" | Where / How to Get It
+|-
+| [[File:Tumbnail.png|Piedra.png]]'''[[Lorem Input]]'''
+| [[File:Tumbnail.png|thumb|107x107px]]Lorem Input
+|-
+| [[File:Tumbnail.png|Mineral de hierro.png]]'''[[Lorem Input]]'''
+| [[File:Tumbnail.png|thumb|93x93px]]Lorem Input
+|-
+| [[File:Tumbnail.png|Mineral de hierro.png]]'''Lorem Input'''
+| [[File:Tumbnail.png|thumb|90x90px]]Lorem Input
+|}
+
+== Places ==
+{| class="wikitable sortable" style="width:100%;"
+! style="width:30%;" | Place
+! style="width:40%;" | Where
+|-
+| [[File:Tumbnail.png|Piedra.png]]'''[[Cabin]]'''
+| [[File:Tumbnail.png|thumb|107x107px]]Lorem Input
+|-
+| [[File:Tumbnail.png|Mineral de hierro.png]]'''[[Cript]]'''
+| [[File:Tumbnail.png|thumb|93x93px]]Lorem Input
+|-
+| [[File:Tumbnail.png|Mineral de hierro.png]]'''Lorem Input'''
+| [[File:Tumbnail.png|thumb|90x90px]]Lorem Input
+|}
+<div style="position: fixed; bottom: 20px; right: 20px; z-index: 9999; display: inline-block; background-color: #2b2b2b; border: 1px solid #555; padding: 6px 10px; border-radius: 5px; box-shadow: 0 4px 6px rgba(0,0,0,0.3); line-height: 1;"><span style="display: inline-block;">[[#Main Categories|⬆ Go back]]</span></div>
+<ref>You should follow the tables exactly as they are. You must upload a photo of the material, its name, and how it's obtained or what it's made from. Or how much of it is required (if it's for crafting something).</ref>
+<references />

@@ -6,7 +6,7 @@
 | GP = 50
 | BP = 25
 }}
-'''Reanimation Liquid''' is an item used to create new [[zombies]].
+'''Reanimation Liquid''' is an item used to create new [[zombies]]. A recipe is in the description of the Necronomicon.
 
 == Obtaining ==
 * Buy from [[Gunter]] and [[Alchemist]].
@@ -17,6 +17,7 @@
 }}
 
 === Recommended Recipes ===
+* Tin + Ash + Zombie Goo
 * Tin + Water + Alcohol
 * Clay + Alcohol + Salt
 

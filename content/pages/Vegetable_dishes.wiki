@@ -1,0 +1,13 @@
+{{Tech infobox
+| tree = Cooking
+}}
+'''Vegetable  dishes''' is a [[Technologies|technology]] in the [[Cooking]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Vegetable soup}}
+|{{Item|Vegetable salad}}
+|}
+
+== Navigation ==
+{{Cooking navbox}}

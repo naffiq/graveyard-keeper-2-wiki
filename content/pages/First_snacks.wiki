@@ -1,0 +1,13 @@
+{{Tech infobox
+| tree = Cooking
+}}
+'''First snack''' is a [[Technologies|technology]] in the [[Cooking]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Berry smoothie}}
+|{{Item|Yogurt}}
+|}
+
+== Navigation ==
+{{Cooking navbox}}

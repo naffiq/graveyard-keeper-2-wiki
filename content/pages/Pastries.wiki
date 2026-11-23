@@ -1,0 +1,14 @@
+{{Tech infobox
+| tree = Cooking
+}}
+
+'''Pastries''' is a [[Technologies|technology]] in the [[Cooking]] Tech Tree.
+
+== Unlocks ==
+{|
+|{{Item|Muffin}}
+|{{Item|Croissant}}
+|}
+
+== Navigation ==
+{{Cooking navbox}}
